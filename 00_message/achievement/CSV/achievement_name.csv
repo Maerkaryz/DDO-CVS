@@ -1,0 +1,707 @@
+"key","original","translation","resource_Id","sorting"
+"ACHIEVEMENT_NAME_450","横たわる神","The Lying God",0,1
+"ACHIEVEMENT_NAME_519","異界の戦士","The Otherworldly Warrior",0,2
+"ACHIEVEMENT_NAME_520","湯煙の館","The House of Steam",0,3
+"ACHIEVEMENT_NAME_521","神の目覚め","The Awakening of God",0,4
+"ACHIEVEMENT_NAME_522","闇を纏う娘",,0,5
+"ACHIEVEMENT_NAME_523","命の行方",,0,6
+"ACHIEVEMENT_NAME_528","新兵の心","The Heart of a Recruit",0,7
+"ACHIEVEMENT_NAME_529","討伐請け負います",,0,8
+"ACHIEVEMENT_NAME_530","バウンティ・ハンター","Bounty Hunter",0,9
+"ACHIEVEMENT_NAME_531","バトルエリート","Battle Elite",0,10
+"ACHIEVEMENT_NAME_532","ザ・処刑人","The Boondock Saints",0,11
+"ACHIEVEMENT_NAME_533","確実に","Reliable",0,12
+"ACHIEVEMENT_NAME_534","確実且つ丁寧に","Reliable and Polite",0,13
+"ACHIEVEMENT_NAME_535","確実且つ丁寧且つ迅速に","Reliable, Polite and Prompt",0,14
+"ACHIEVEMENT_NAME_536","確実且つ丁寧且つ迅速且つ笑顔で","Reliable, Polite, Prompt and with a Smile",0,15
+"ACHIEVEMENT_NAME_537","確実且つ丁寧且つ迅速且つ笑顔で紳士的","Reliable, Polite, Prompt, with a Smile and Gentlemanly",0,16
+"ACHIEVEMENT_NAME_538","ストレンジャー","Stranger",0,17
+"ACHIEVEMENT_NAME_539","ミステリーハンター","Mystery Hunter",0,18
+"ACHIEVEMENT_NAME_540","ワールドウォッチャー","World Watcher",0,19
+"ACHIEVEMENT_NAME_1292","レスタニアエクスプローラー","Lestanian Explorer",0,20
+"ACHIEVEMENT_NAME_541","ニュース見ました","Read the News",0,21
+"ACHIEVEMENT_NAME_542","ニュース愛読者","News Subscriber",0,22
+"ACHIEVEMENT_NAME_543","世界の情報通","World Information Gatherer",0,23
+"ACHIEVEMENT_NAME_544","真相目撃人","Witness of the Truth",0,24
+"ACHIEVEMENT_NAME_582","百戦錬磨","100 War Veteran",0,25
+"ACHIEVEMENT_NAME_583","三百撃破","300 Defeats",0,26
+"ACHIEVEMENT_NAME_584","一騎当千","The Unmatched Warrior",0,27
+"ACHIEVEMENT_NAME_585","万夫不当",,0,28
+"ACHIEVEMENT_NAME_1295","弐万征殺",,0,29
+"ACHIEVEMENT_NAME_1296","参萬破王",,0,30
+"ACHIEVEMENT_NAME_590","小鬼退治Ⅰ","Goblin I",0,31
+"ACHIEVEMENT_NAME_591","小鬼退治Ⅱ","Goblin II",0,32
+"ACHIEVEMENT_NAME_592","小鬼退治Ⅲ","Goblin III",0,33
+"ACHIEVEMENT_NAME_608","亜人ハンターⅠ","Hobgoblin I",0,34
+"ACHIEVEMENT_NAME_609","亜人ハンターⅡ","Hobgoblin II",0,35
+"ACHIEVEMENT_NAME_610","亜人ハンターⅢ","Hobgoblin III",0,36
+"ACHIEVEMENT_NAME_863","森の妖鬼Ⅰ","Forest Goblin I",0,37
+"ACHIEVEMENT_NAME_864","森の妖鬼Ⅱ","Forest Goblin II",0,38
+"ACHIEVEMENT_NAME_865","森の妖鬼Ⅲ","Forest Goblin III",0,39
+"ACHIEVEMENT_NAME_872","血濡れの赤帽Ⅰ","Redcap I",0,40
+"ACHIEVEMENT_NAME_873","血濡れの赤帽Ⅱ","Redcap II",0,41
+"ACHIEVEMENT_NAME_874","血濡れの赤帽Ⅲ","Redcap III",0,42
+"ACHIEVEMENT_NAME_881","異形の小鬼Ⅰ",,0,43
+"ACHIEVEMENT_NAME_882","異形の小鬼Ⅱ",,0,44
+"ACHIEVEMENT_NAME_883","異形の小鬼Ⅲ",,0,45
+"ACHIEVEMENT_NAME_623","ワイルドウルフⅠ","Wild Wolf I",0,46
+"ACHIEVEMENT_NAME_624","ワイルドウルフⅡ","Wild Wolf II",0,47
+"ACHIEVEMENT_NAME_625","ワイルドウルフⅢ","Wild Wolf III",0,48
+"ACHIEVEMENT_NAME_629","貪欲な魔獣Ⅰ","Grim Wargs I",0,49
+"ACHIEVEMENT_NAME_630","貪欲な魔獣Ⅱ","Grim Wargs II",0,50
+"ACHIEVEMENT_NAME_631","貪欲な魔獣Ⅲ","Grim Wargs III",0,51
+"ACHIEVEMENT_NAME_635","金の獣牙Ⅰ",,0,52
+"ACHIEVEMENT_NAME_636","金の獣牙Ⅱ",,0,53
+"ACHIEVEMENT_NAME_637","金の獣牙Ⅲ",,0,54
+"ACHIEVEMENT_NAME_641","さまようドクロⅠ",,0,55
+"ACHIEVEMENT_NAME_642","さまようドクロⅡ",,0,56
+"ACHIEVEMENT_NAME_643","さまようドクロⅢ",,0,57
+"ACHIEVEMENT_NAME_668","魔性のドクロⅠ",,0,58
+"ACHIEVEMENT_NAME_669","魔性のドクロⅡ",,0,59
+"ACHIEVEMENT_NAME_670","魔性のドクロⅢ",,0,60
+"ACHIEVEMENT_NAME_671","ウロコの戦士Ⅰ",,0,61
+"ACHIEVEMENT_NAME_672","ウロコの戦士Ⅱ",,0,62
+"ACHIEVEMENT_NAME_673","ウロコの戦士Ⅲ",,0,63
+"ACHIEVEMENT_NAME_677","忍び寄る縞模様Ⅰ",,0,64
+"ACHIEVEMENT_NAME_678","忍び寄る縞模様Ⅱ",,0,65
+"ACHIEVEMENT_NAME_679","忍び寄る縞模様Ⅲ",,0,66
+"ACHIEVEMENT_NAME_683","岩壁を這う者Ⅰ",,0,67
+"ACHIEVEMENT_NAME_684","岩壁を這う者Ⅱ",,0,68
+"ACHIEVEMENT_NAME_685","岩壁を這う者Ⅲ",,0,69
+"ACHIEVEMENT_NAME_689","トカゲ発電Ⅰ",,0,70
+"ACHIEVEMENT_NAME_690","トカゲ発電Ⅱ",,0,71
+"ACHIEVEMENT_NAME_691","トカゲ発電Ⅲ",,0,72
+"ACHIEVEMENT_NAME_692","不死殺しⅠ",,0,73
+"ACHIEVEMENT_NAME_693","不死殺しⅡ",,0,74
+"ACHIEVEMENT_NAME_694","不死殺しⅢ",,0,75
+"ACHIEVEMENT_NAME_707","パペットクラッシャーⅠ","Puppet Crusher I",0,76
+"ACHIEVEMENT_NAME_708","パペットクラッシャーⅡ","Puppet Crusher II",0,77
+"ACHIEVEMENT_NAME_709","パペットクラッシャーⅢ","Puppet Crusher III",0,78
+"ACHIEVEMENT_NAME_713","葬儀屋Ⅰ",,0,79
+"ACHIEVEMENT_NAME_714","葬儀屋Ⅱ",,0,80
+"ACHIEVEMENT_NAME_715","葬儀屋Ⅲ",,0,81
+"ACHIEVEMENT_NAME_719","歌う鳥妖Ⅰ",,0,82
+"ACHIEVEMENT_NAME_720","歌う鳥妖Ⅱ",,0,83
+"ACHIEVEMENT_NAME_721","歌う鳥妖Ⅲ",,0,84
+"ACHIEVEMENT_NAME_731","虫取り少年",,0,85
+"ACHIEVEMENT_NAME_732","虫取りプロ",,0,86
+"ACHIEVEMENT_NAME_733","虫取りエキスパート",,0,87
+"ACHIEVEMENT_NAME_914","害虫駆除業者Ⅰ",,0,88
+"ACHIEVEMENT_NAME_915","害虫駆除業者Ⅱ",,0,89
+"ACHIEVEMENT_NAME_916","害虫駆除業者Ⅲ",,0,90
+"ACHIEVEMENT_NAME_737","ローションプレイヤーⅠ","Lotion Player I",0,91
+"ACHIEVEMENT_NAME_738","ローションプレイヤーⅡ","Lotion Player II",0,92
+"ACHIEVEMENT_NAME_739","ローションプレイヤーⅢ","Lotion Player III",0,93
+"ACHIEVEMENT_NAME_794","盗賊ハンターⅠ","Bandit Hunter I",0,94
+"ACHIEVEMENT_NAME_795","盗賊ハンターⅡ","Bandit Hunter II",0,95
+"ACHIEVEMENT_NAME_796","盗賊ハンターⅢ","Bandit Hunter III",0,96
+"ACHIEVEMENT_NAME_818","ゴーストバスターⅠ",,0,97
+"ACHIEVEMENT_NAME_819","ゴーストバスターⅡ",,0,98
+"ACHIEVEMENT_NAME_820","ゴーストバスターⅢ",,0,99
+"ACHIEVEMENT_NAME_836","迷えるポーンに安らぎをⅠ",,0,100
+"ACHIEVEMENT_NAME_837","迷えるポーンに安らぎをⅡ",,0,101
+"ACHIEVEMENT_NAME_838","迷えるポーンに安らぎをⅢ",,0,102
+"ACHIEVEMENT_NAME_917","一つ目バスターⅠ","One Eye Buster I",0,103
+"ACHIEVEMENT_NAME_918","一つ目バスターⅡ","One Eye Buster II",0,104
+"ACHIEVEMENT_NAME_919","一つ目バスターⅢ","One Eye Buster III",0,105
+"ACHIEVEMENT_NAME_929","ジャイアントキラーⅠ","Giant Killer I",0,106
+"ACHIEVEMENT_NAME_930","ジャイアントキラーⅡ","Giant Killer II",0,107
+"ACHIEVEMENT_NAME_931","ジャイアントキラーⅢ","Giant Killer III",0,108
+"ACHIEVEMENT_NAME_935","樹木伐採者Ⅰ",,0,109
+"ACHIEVEMENT_NAME_936","樹木伐採者Ⅱ",,0,110
+"ACHIEVEMENT_NAME_937","樹木伐採者Ⅲ",,0,111
+"ACHIEVEMENT_NAME_1297","森の賢者Ⅰ",,0,112
+"ACHIEVEMENT_NAME_1298","森の賢者Ⅱ",,0,113
+"ACHIEVEMENT_NAME_1299","森の賢者Ⅲ",,0,114
+"ACHIEVEMENT_NAME_938","巨人討伐衆Ⅰ",,0,115
+"ACHIEVEMENT_NAME_939","巨人討伐衆Ⅱ",,0,116
+"ACHIEVEMENT_NAME_940","巨人討伐衆Ⅲ",,0,117
+"ACHIEVEMENT_NAME_944","石切工Ⅰ",,0,118
+"ACHIEVEMENT_NAME_945","石切工Ⅱ",,0,119
+"ACHIEVEMENT_NAME_946","石切工Ⅲ",,0,120
+"ACHIEVEMENT_NAME_956","吠える三つ首Ⅰ",,0,121
+"ACHIEVEMENT_NAME_957","吠える三つ首Ⅱ",,0,122
+"ACHIEVEMENT_NAME_958","吠える三つ首Ⅲ",,0,123
+"ACHIEVEMENT_NAME_959","白き幻獣Ⅰ",,0,124
+"ACHIEVEMENT_NAME_960","白き幻獣Ⅱ",,0,125
+"ACHIEVEMENT_NAME_961","白き幻獣Ⅲ",,0,126
+"ACHIEVEMENT_NAME_965","スカイグライダーⅠ","Sky Glider I",0,127
+"ACHIEVEMENT_NAME_966","スカイグライダーⅡ","Sky Glider II",0,128
+"ACHIEVEMENT_NAME_967","スカイグライダーⅢ","Sky Glider III",0,129
+"ACHIEVEMENT_NAME_968","石の上にも１年",,0,130
+"ACHIEVEMENT_NAME_969","石の上にも２年",,0,131
+"ACHIEVEMENT_NAME_970","石の上にも３年",,0,132
+"ACHIEVEMENT_NAME_971","恐ろしの歌姫Ⅰ",,0,133
+"ACHIEVEMENT_NAME_972","恐ろしの歌姫Ⅱ",,0,134
+"ACHIEVEMENT_NAME_973","恐ろしの歌姫Ⅲ",,0,135
+"ACHIEVEMENT_NAME_998","悪鬼退治Ⅰ",,0,136
+"ACHIEVEMENT_NAME_999","悪鬼退治Ⅱ",,0,137
+"ACHIEVEMENT_NAME_1000","悪鬼退治Ⅲ",,0,138
+"ACHIEVEMENT_NAME_1001","暴れ猿Ⅰ",,0,139
+"ACHIEVEMENT_NAME_1002","暴れ猿Ⅱ",,0,140
+"ACHIEVEMENT_NAME_1003","暴れ猿Ⅲ",,0,141
+"ACHIEVEMENT_NAME_1004","デッドイーターⅠ",,0,142
+"ACHIEVEMENT_NAME_1005","デッドイーターⅡ",,0,143
+"ACHIEVEMENT_NAME_1006","デッドイーターⅢ",,0,144
+"ACHIEVEMENT_NAME_1010","猛るいぶし銀Ⅰ",,0,145
+"ACHIEVEMENT_NAME_1011","猛るいぶし銀Ⅱ",,0,146
+"ACHIEVEMENT_NAME_1012","猛るいぶし銀Ⅲ",,0,147
+"ACHIEVEMENT_NAME_1013","エクソシストⅠ","Exorcist I",0,148
+"ACHIEVEMENT_NAME_1014","エクソシストⅡ","Exorcist II",0,149
+"ACHIEVEMENT_NAME_1015","エクソシストⅢ","Exorcist III",0,150
+"ACHIEVEMENT_NAME_1016","異端審問官Ⅰ",,0,151
+"ACHIEVEMENT_NAME_1017","異端審問官Ⅱ",,0,152
+"ACHIEVEMENT_NAME_1018","異端審問官Ⅲ",,0,153
+"ACHIEVEMENT_NAME_1028","雷纏う海魔Ⅰ",,0,154
+"ACHIEVEMENT_NAME_1029","雷纏う海魔Ⅱ",,0,155
+"ACHIEVEMENT_NAME_1030","雷纏う海魔Ⅲ",,0,156
+"ACHIEVEMENT_NAME_1031","閃光の一角Ⅰ",,0,157
+"ACHIEVEMENT_NAME_1032","閃光の一角Ⅱ",,0,158
+"ACHIEVEMENT_NAME_1033","閃光の一角Ⅲ",,0,159
+"ACHIEVEMENT_NAME_1034","大地の怪獣Ⅰ",,0,160
+"ACHIEVEMENT_NAME_1035","大地の怪獣Ⅱ",,0,161
+"ACHIEVEMENT_NAME_1036","大地の怪獣Ⅲ",,0,162
+"ACHIEVEMENT_NAME_1043","噂のオークキラーⅠ","Rumored Orc Killer I",0,163
+"ACHIEVEMENT_NAME_1044","噂のオークキラーⅡ","Rumored Orc Killer II",0,164
+"ACHIEVEMENT_NAME_1045","噂のオークキラーⅢ","Rumored Orc Killer III",0,165
+"ACHIEVEMENT_NAME_1061","オーク将の首を取れⅠ",,0,166
+"ACHIEVEMENT_NAME_1062","オーク将の首を取れⅡ",,0,167
+"ACHIEVEMENT_NAME_1063","オーク将の首を取れⅢ",,0,168
+"ACHIEVEMENT_NAME_1085","竜狩",,0,169
+"ACHIEVEMENT_NAME_1086","竜殺",,0,170
+"ACHIEVEMENT_NAME_1087","竜制",,0,171
+"ACHIEVEMENT_NAME_1091","生命の種",,0,172
+"ACHIEVEMENT_NAME_1092","生命の樹",,0,173
+"ACHIEVEMENT_NAME_1093","不休の徒",,0,174
+"ACHIEVEMENT_NAME_1094","恒労の徒",,0,175
+"ACHIEVEMENT_NAME_1095","覚者の心器",,0,176
+"ACHIEVEMENT_NAME_1096","覚者の神器",,0,177
+"ACHIEVEMENT_NAME_1097","従者の信頼",,0,178
+"ACHIEVEMENT_NAME_1098","従者の忠義",,0,179
+"ACHIEVEMENT_NAME_1099","剣士",,0,180
+"ACHIEVEMENT_NAME_1100","剣豪",,0,181
+"ACHIEVEMENT_NAME_1102","足踏み",,0,182
+"ACHIEVEMENT_NAME_1103","弓構え",,0,183
+"ACHIEVEMENT_NAME_1105","癒し手",,0,184
+"ACHIEVEMENT_NAME_1106","癒しの道士",,0,185
+"ACHIEVEMENT_NAME_1108","守り手",,0,186
+"ACHIEVEMENT_NAME_1109","守護者",,0,187
+"ACHIEVEMENT_NAME_1111","軽業師",,0,188
+"ACHIEVEMENT_NAME_1112","軽業達人",,0,189
+"ACHIEVEMENT_NAME_1114","魔導の徒",,0,190
+"ACHIEVEMENT_NAME_1115","魔導の究士",,0,191
+"ACHIEVEMENT_NAME_1117","光弾の射手",,0,192
+"ACHIEVEMENT_NAME_1118","閃弾の射手",,0,193
+"ACHIEVEMENT_NAME_1133","覚者の教訓",,0,194
+"ACHIEVEMENT_NAME_1134","求道者",,0,195
+"ACHIEVEMENT_NAME_1135","超・求道者",,0,196
+"ACHIEVEMENT_NAME_1136","極・求道者",,0,197
+"ACHIEVEMENT_NAME_1137","アビリティオープナー","Ability Opener",0,198
+"ACHIEVEMENT_NAME_1138","アビリティホルダー","Ability Holder",0,199
+"ACHIEVEMENT_NAME_1139","アビリティコレクター","Ability Collector",0,200
+"ACHIEVEMENT_NAME_1140","アビリティマイスター","Ability Meister",0,201
+"ACHIEVEMENT_NAME_1143","ルーキーエンプロイヤー","Rookie Employer",0,202
+"ACHIEVEMENT_NAME_1144","グッドエンプロイヤー","Good Employer",0,203
+"ACHIEVEMENT_NAME_1145","ベストエンプロイヤー","Best Employer",0,204
+"ACHIEVEMENT_NAME_1146","用心棒",,0,205
+"ACHIEVEMENT_NAME_1147","忠実なる剣",,0,206
+"ACHIEVEMENT_NAME_1149","弓兵付き",,0,207
+"ACHIEVEMENT_NAME_1150","弓の守り",,0,208
+"ACHIEVEMENT_NAME_1152","衛生兵",,0,209
+"ACHIEVEMENT_NAME_1153","回復の要",,0,210
+"ACHIEVEMENT_NAME_1155","タフネス","Toughness",0,211
+"ACHIEVEMENT_NAME_1156","ドートレス",,0,212
+"ACHIEVEMENT_NAME_1158","メイジ","Mage",0,213
+"ACHIEVEMENT_NAME_1159","エルダーメイジ","Elder Mage",0,214
+"ACHIEVEMENT_NAME_1161","トリッキー","Tricky",0,215
+"ACHIEVEMENT_NAME_1162","ワイヤーマン","Wire Man",0,216
+"ACHIEVEMENT_NAME_1164","秘弓見習い",,0,217
+"ACHIEVEMENT_NAME_1165","秘弓の使い手",,0,218
+"ACHIEVEMENT_NAME_1173","クラフトマン","Craft Man",0,219
+"ACHIEVEMENT_NAME_1174","クラフトナイト","Craft Knight",0,220
+"ACHIEVEMENT_NAME_1176","ブロンズハンド","Bronze Hand",0,221
+"ACHIEVEMENT_NAME_1177","シルバーハンド","Silver Hand",0,222
+"ACHIEVEMENT_NAME_1228","トレジャービギナー","Treasure Beginner",0,223
+"ACHIEVEMENT_NAME_1229","トレジャーハンター","Treasure Hunter",0,224
+"ACHIEVEMENT_NAME_1230","トレジャーマスター","Treasure Master",0,225
+"ACHIEVEMENT_NAME_1231","ギャザースカラー","Gathering Scholar",0,226
+"ACHIEVEMENT_NAME_1232","ギャザーエキスパート","Gathering Expert",0,227
+"ACHIEVEMENT_NAME_1233","ギャザーチャンピオン","Gathering Champion",0,228
+"ACHIEVEMENT_NAME_1234","かけだし採掘士","Beginner Miner",0,229
+"ACHIEVEMENT_NAME_1235","ミスター採掘士","Mr Miner",0,230
+"ACHIEVEMENT_NAME_1236","マスター採掘士","Master Miner",0,231
+"ACHIEVEMENT_NAME_1237","きこりルーキー","Rookie Lumberjack",0,232
+"ACHIEVEMENT_NAME_1238","きこりエース","Ace Lumberjack",0,233
+"ACHIEVEMENT_NAME_1239","きこりプロフェッショナル","Professional Lumberjack",0,234
+"ACHIEVEMENT_NAME_1243","ファーストウェポン","First Weapon",0,235
+"ACHIEVEMENT_NAME_1244","ウェポンメーカー","Weapon Maker",0,236
+"ACHIEVEMENT_NAME_1245","ウェポンファーザー","Weapon Father",0,237
+"ACHIEVEMENT_NAME_1246","ロード オブ アイアン","Lord of Iron",0,238
+"ACHIEVEMENT_NAME_1247","アーマー大工",,0,239
+"ACHIEVEMENT_NAME_1248","アーマー職工",,0,240
+"ACHIEVEMENT_NAME_1249","アーマー熟練工",,0,241
+"ACHIEVEMENT_NAME_1250","アーマー名工",,0,242
+"ACHIEVEMENT_NAME_1251","工芸初心者",,0,243
+"ACHIEVEMENT_NAME_1252","工芸職人",,0,244
+"ACHIEVEMENT_NAME_1253","工芸の匠み技",,0,245
+"ACHIEVEMENT_NAME_1254","武具職人",,0,246
+"ACHIEVEMENT_NAME_1255","売れっ子鍛冶職人",,0,247
+"ACHIEVEMENT_NAME_1256","誉れ高き鍛冶職人",,0,248
+"ACHIEVEMENT_NAME_1258","防具職人",,0,249
+"ACHIEVEMENT_NAME_1259","売れっ子鎧職人",,0,250
+"ACHIEVEMENT_NAME_1260","高名なる甲冑師",,0,251
+"ACHIEVEMENT_NAME_1261","鎧の神様",,0,252
+"ACHIEVEMENT_NAME_1262","より良き相棒",,0,253
+"ACHIEVEMENT_NAME_1263","より一層使いこんで",,0,254
+"ACHIEVEMENT_NAME_1264","鍛え上げし武具",,0,255
+"ACHIEVEMENT_NAME_1265","さらなる輝きを与えて",,0,256
+"ACHIEVEMENT_NAME_1266","磨き上げし至高品",,0,257
+"ACHIEVEMENT_NAME_1267","至高の業モノを携えて",,0,258
+"ACHIEVEMENT_NAME_1276","神秘のクレスト",,0,259
+"ACHIEVEMENT_NAME_1277","クレストの奥義",,0,260
+"ACHIEVEMENT_NAME_1278","色奉行",,0,261
+"ACHIEVEMENT_NAME_1279","流行色パイオニア","Fashionable Color Pioneer",0,262
+"ACHIEVEMENT_NAME_1073","ウサギ発見！","Found a rabbit!",0,263
+"ACHIEVEMENT_NAME_1845","ウサギを追いかけて",,0,264
+"ACHIEVEMENT_NAME_1846","ウサギのおしりは遠く",,0,265
+"ACHIEVEMENT_NAME_1847","ウサギとのあくなき競走",,0,266
+"ACHIEVEMENT_NAME_1848","ウサギを超え跳躍する者",,0,267
+"ACHIEVEMENT_NAME_1074","闘牛士","Bullfighter",0,268
+"ACHIEVEMENT_NAME_1922","成長株闘牛士",,0,269
+"ACHIEVEMENT_NAME_1923","ベテラン闘牛士",,0,270
+"ACHIEVEMENT_NAME_1924","花形闘牛士",,0,271
+"ACHIEVEMENT_NAME_1925","レジェンド闘牛士",,0,272
+"ACHIEVEMENT_NAME_1076","シカにご注意！",,0,273
+"ACHIEVEMENT_NAME_1926","シカはいずこに？",,0,274
+"ACHIEVEMENT_NAME_1927","シカを求めて…",,0,275
+"ACHIEVEMENT_NAME_1928","シカははるか彼方",,0,276
+"ACHIEVEMENT_NAME_1929","シカよ永遠に――",,0,277
+"ACHIEVEMENT_NAME_1077","とんとおぼえが",,0,278
+"ACHIEVEMENT_NAME_1930","とんちんかんでも",,0,279
+"ACHIEVEMENT_NAME_1931","とんとんびょうしに",,0,280
+"ACHIEVEMENT_NAME_1932","とんでもなくまるく",,0,281
+"ACHIEVEMENT_NAME_1933","とことんつきつめて",,0,282
+"ACHIEVEMENT_NAME_1079","クモが出た",,0,283
+"ACHIEVEMENT_NAME_1934","クモ排除",,0,284
+"ACHIEVEMENT_NAME_1935","クモ退治！",,0,285
+"ACHIEVEMENT_NAME_1936","クモ撃退！！",,0,286
+"ACHIEVEMENT_NAME_1937","クモ徹底撃滅！！！",,0,287
+"ACHIEVEMENT_NAME_1081","ネズミキャプター","Rat Captor",0,288
+"ACHIEVEMENT_NAME_1938","ネズミリフレクター","Rat Reflector",0,289
+"ACHIEVEMENT_NAME_1939","ネズミスイーパー","Rat Sweeper",0,290
+"ACHIEVEMENT_NAME_1940","ネズミブリンガー","Rat Bringer",0,291
+"ACHIEVEMENT_NAME_1941","ネズミネーター",,0,292
+"ACHIEVEMENT_NAME_1291","戦場カメラマン","Battlefield Camera Man",0,293
+"ACHIEVEMENT_NAME_1312","ファイターのジョブレベルが2になった","Reach level 2 as a Fighter",0,294
+"ACHIEVEMENT_NAME_1313","ファイターのジョブレベルが3になった","Reach level 3 as a Fighter",0,295
+"ACHIEVEMENT_NAME_1314","ファイターのジョブレベルが4になった","Reach level 4 as a Fighter",0,296
+"ACHIEVEMENT_NAME_1315","ファイターのジョブレベルが5になった","Reach level 5 as a Fighter",0,297
+"ACHIEVEMENT_NAME_1316","ファイターのジョブレベルが6になった","Reach level 6 as a Fighter",0,298
+"ACHIEVEMENT_NAME_1317","ファイターのジョブレベルが7になった","Reach level 7 as a Fighter",0,299
+"ACHIEVEMENT_NAME_1318","ファイターのジョブレベルが8になった","Reach level 8 as a Fighter",0,300
+"ACHIEVEMENT_NAME_1319","ファイターのジョブレベルが9になった","Reach level 9 as a Fighter",0,301
+"ACHIEVEMENT_NAME_1320","ファイターのジョブレベルが10になった","Reach level 10 as a Fighter",0,302
+"ACHIEVEMENT_NAME_1321","ファイターのジョブレベルが11になった","Reach level 11 as a Fighter",0,303
+"ACHIEVEMENT_NAME_1322","ファイターのジョブレベルが12になった","Reach level 12 as a Fighter",0,304
+"ACHIEVEMENT_NAME_1323","ファイターのジョブレベルが13になった","Reach level 13 as a Fighter",0,305
+"ACHIEVEMENT_NAME_1324","ファイターのジョブレベルが14になった","Reach level 14 as a Fighter",0,306
+"ACHIEVEMENT_NAME_1325","ファイターのジョブレベルが15になった","Reach level 15 as a Fighter",0,307
+"ACHIEVEMENT_NAME_1326","ファイターのジョブレベルが16になった","Reach level 16 as a Fighter",0,308
+"ACHIEVEMENT_NAME_1327","ファイターのジョブレベルが17になった","Reach level 17 as a Fighter",0,309
+"ACHIEVEMENT_NAME_1328","ファイターのジョブレベルが18になった","Reach level 18 as a Fighter",0,310
+"ACHIEVEMENT_NAME_1329","ファイターのジョブレベルが19になった","Reach level 19 as a Fighter",0,311
+"ACHIEVEMENT_NAME_1330","ファイターのジョブレベルが20になった","Reach level 20 as a Fighter",0,312
+"ACHIEVEMENT_NAME_1331","ファイターのジョブレベルが21になった","Reach level 21 as a Fighter",0,313
+"ACHIEVEMENT_NAME_1332","ファイターのジョブレベルが22になった","Reach level 22 as a Fighter",0,314
+"ACHIEVEMENT_NAME_1333","ファイターのジョブレベルが23になった","Reach level 23 as a Fighter",0,315
+"ACHIEVEMENT_NAME_1334","ファイターのジョブレベルが24になった","Reach level 24 as a Fighter",0,316
+"ACHIEVEMENT_NAME_1335","ファイターのジョブレベルが25になった","Reach level 25 as a Fighter",0,317
+"ACHIEVEMENT_NAME_1336","ファイターのジョブレベルが26になった","Reach level 26 as a Fighter",0,318
+"ACHIEVEMENT_NAME_1337","ファイターのジョブレベルが27になった","Reach level 27 as a Fighter",0,319
+"ACHIEVEMENT_NAME_1338","ファイターのジョブレベルが28になった","Reach level 28 as a Fighter",0,320
+"ACHIEVEMENT_NAME_1339","ファイターのジョブレベルが29になった","Reach level 29 as a Fighter",0,321
+"ACHIEVEMENT_NAME_1340","ファイターのジョブレベルが30になった","Reach level 30 as a Fighter",0,322
+"ACHIEVEMENT_NAME_1341","ファイターのジョブレベルが31になった","Reach level 31 as a Fighter",0,323
+"ACHIEVEMENT_NAME_1342","ファイターのジョブレベルが32になった","Reach level 32 as a Fighter",0,324
+"ACHIEVEMENT_NAME_1343","ファイターのジョブレベルが33になった","Reach level 33 as a Fighter",0,325
+"ACHIEVEMENT_NAME_1344","ファイターのジョブレベルが34になった","Reach level 34 as a Fighter",0,326
+"ACHIEVEMENT_NAME_1345","ファイターのジョブレベルが35になった","Reach level 35 as a Fighter",0,327
+"ACHIEVEMENT_NAME_1346","ファイターのジョブレベルが36になった","Reach level 36 as a Fighter",0,328
+"ACHIEVEMENT_NAME_1347","ファイターのジョブレベルが37になった","Reach level 37 as a Fighter",0,329
+"ACHIEVEMENT_NAME_1348","ファイターのジョブレベルが38になった","Reach level 38 as a Fighter",0,330
+"ACHIEVEMENT_NAME_1349","ファイターのジョブレベルが39になった","Reach level 39 as a Fighter",0,331
+"ACHIEVEMENT_NAME_1350","ファイターのジョブレベルが40になった","Reach level 40 as a Fighter",0,332
+"ACHIEVEMENT_NAME_1351","ファイターのジョブレベルが41になった","Reach level 41 as a Fighter",0,333
+"ACHIEVEMENT_NAME_1352","ファイターのジョブレベルが42になった","Reach level 42 as a Fighter",0,334
+"ACHIEVEMENT_NAME_1353","ファイターのジョブレベルが43になった","Reach level 43 as a Fighter",0,335
+"ACHIEVEMENT_NAME_1354","ファイターのジョブレベルが44になった","Reach level 44 as a Fighter",0,336
+"ACHIEVEMENT_NAME_1355","ファイターのジョブレベルが45になった","Reach level 45 as a Fighter",0,337
+"ACHIEVEMENT_NAME_1356","ファイターのジョブレベルが46になった","Reach level 46 as a Fighter",0,338
+"ACHIEVEMENT_NAME_1357","ファイターのジョブレベルが47になった","Reach level 47 as a Fighter",0,339
+"ACHIEVEMENT_NAME_1358","ファイターのジョブレベルが48になった","Reach level 48 as a Fighter",0,340
+"ACHIEVEMENT_NAME_1359","ファイターのジョブレベルが49になった","Reach level 49 as a Fighter",0,341
+"ACHIEVEMENT_NAME_1360","ファイターのジョブレベルが50になった","Reach level 50 as a Fighter",0,342
+"ACHIEVEMENT_NAME_1361","ファイターのジョブレベルが51になった","Reach level 51 as a Fighter",0,343
+"ACHIEVEMENT_NAME_1362","ファイターのジョブレベルが52になった","Reach level 52 as a Fighter",0,344
+"ACHIEVEMENT_NAME_1363","ファイターのジョブレベルが53になった","Reach level 53 as a Fighter",0,345
+"ACHIEVEMENT_NAME_1364","ファイターのジョブレベルが54になった","Reach level 54 as a Fighter",0,346
+"ACHIEVEMENT_NAME_1365","ファイターのジョブレベルが55になった","Reach level 55 as a Fighter",0,347
+"ACHIEVEMENT_NAME_1366","ファイターのジョブレベルが56になった","Reach level 56 as a Fighter",0,348
+"ACHIEVEMENT_NAME_1367","ファイターのジョブレベルが57になった","Reach level 57 as a Fighter",0,349
+"ACHIEVEMENT_NAME_1368","ファイターのジョブレベルが58になった","Reach level 58 as a Fighter",0,350
+"ACHIEVEMENT_NAME_1369","ファイターのジョブレベルが59になった","Reach level 59 as a Fighter",0,351
+"ACHIEVEMENT_NAME_1370","ファイターのジョブレベルが60になった","Reach level 60 as a Fighter",0,352
+"ACHIEVEMENT_NAME_1607","シーカーのジョブレベルが2になった","Reach level 2 as a Seeker",0,353
+"ACHIEVEMENT_NAME_1608","シーカーのジョブレベルが3になった","Reach level 3 as a Seeker",0,354
+"ACHIEVEMENT_NAME_1609","シーカーのジョブレベルが4になった","Reach level 4 as a Seeker",0,355
+"ACHIEVEMENT_NAME_1610","シーカーのジョブレベルが5になった","Reach level 5 as a Seeker",0,356
+"ACHIEVEMENT_NAME_1611","シーカーのジョブレベルが6になった","Reach level 6 as a Seeker",0,357
+"ACHIEVEMENT_NAME_1612","シーカーのジョブレベルが7になった","Reach level 7 as a Seeker",0,358
+"ACHIEVEMENT_NAME_1613","シーカーのジョブレベルが8になった","Reach level 8 as a Seeker",0,359
+"ACHIEVEMENT_NAME_1614","シーカーのジョブレベルが9になった","Reach level 9 as a Seeker",0,360
+"ACHIEVEMENT_NAME_1615","シーカーのジョブレベルが10になった","Reach level 10 as a Seeker",0,361
+"ACHIEVEMENT_NAME_1616","シーカーのジョブレベルが11になった","Reach level 11 as a Seeker",0,362
+"ACHIEVEMENT_NAME_1617","シーカーのジョブレベルが12になった","Reach level 12 as a Seeker",0,363
+"ACHIEVEMENT_NAME_1618","シーカーのジョブレベルが13になった","Reach level 13 as a Seeker",0,364
+"ACHIEVEMENT_NAME_1619","シーカーのジョブレベルが14になった","Reach level 14 as a Seeker",0,365
+"ACHIEVEMENT_NAME_1620","シーカーのジョブレベルが15になった","Reach level 15 as a Seeker",0,366
+"ACHIEVEMENT_NAME_1621","シーカーのジョブレベルが16になった","Reach level 16 as a Seeker",0,367
+"ACHIEVEMENT_NAME_1622","シーカーのジョブレベルが17になった","Reach level 17 as a Seeker",0,368
+"ACHIEVEMENT_NAME_1623","シーカーのジョブレベルが18になった","Reach level 18 as a Seeker",0,369
+"ACHIEVEMENT_NAME_1624","シーカーのジョブレベルが19になった","Reach level 19 as a Seeker",0,370
+"ACHIEVEMENT_NAME_1625","シーカーのジョブレベルが20になった","Reach level 20 as a Seeker",0,371
+"ACHIEVEMENT_NAME_1626","シーカーのジョブレベルが21になった","Reach level 21 as a Seeker",0,372
+"ACHIEVEMENT_NAME_1627","シーカーのジョブレベルが22になった","Reach level 22 as a Seeker",0,373
+"ACHIEVEMENT_NAME_1628","シーカーのジョブレベルが23になった","Reach level 23 as a Seeker",0,374
+"ACHIEVEMENT_NAME_1629","シーカーのジョブレベルが24になった","Reach level 24 as a Seeker",0,375
+"ACHIEVEMENT_NAME_1630","シーカーのジョブレベルが25になった","Reach level 25 as a Seeker",0,376
+"ACHIEVEMENT_NAME_1631","シーカーのジョブレベルが26になった","Reach level 26 as a Seeker",0,377
+"ACHIEVEMENT_NAME_1632","シーカーのジョブレベルが27になった","Reach level 27 as a Seeker",0,378
+"ACHIEVEMENT_NAME_1633","シーカーのジョブレベルが28になった","Reach level 28 as a Seeker",0,379
+"ACHIEVEMENT_NAME_1634","シーカーのジョブレベルが29になった","Reach level 29 as a Seeker",0,380
+"ACHIEVEMENT_NAME_1635","シーカーのジョブレベルが30になった","Reach level 30 as a Seeker",0,381
+"ACHIEVEMENT_NAME_1636","シーカーのジョブレベルが31になった","Reach level 31 as a Seeker",0,382
+"ACHIEVEMENT_NAME_1637","シーカーのジョブレベルが32になった","Reach level 32 as a Seeker",0,383
+"ACHIEVEMENT_NAME_1638","シーカーのジョブレベルが33になった","Reach level 33 as a Seeker",0,384
+"ACHIEVEMENT_NAME_1639","シーカーのジョブレベルが34になった","Reach level 34 as a Seeker",0,385
+"ACHIEVEMENT_NAME_1640","シーカーのジョブレベルが35になった","Reach level 35 as a Seeker",0,386
+"ACHIEVEMENT_NAME_1641","シーカーのジョブレベルが36になった","Reach level 36 as a Seeker",0,387
+"ACHIEVEMENT_NAME_1642","シーカーのジョブレベルが37になった","Reach level 37 as a Seeker",0,388
+"ACHIEVEMENT_NAME_1643","シーカーのジョブレベルが38になった","Reach level 38 as a Seeker",0,389
+"ACHIEVEMENT_NAME_1644","シーカーのジョブレベルが39になった","Reach level 39 as a Seeker",0,390
+"ACHIEVEMENT_NAME_1645","シーカーのジョブレベルが40になった","Reach level 40 as a Seeker",0,391
+"ACHIEVEMENT_NAME_1646","シーカーのジョブレベルが41になった","Reach level 41 as a Seeker",0,392
+"ACHIEVEMENT_NAME_1647","シーカーのジョブレベルが42になった","Reach level 42 as a Seeker",0,393
+"ACHIEVEMENT_NAME_1648","シーカーのジョブレベルが43になった","Reach level 43 as a Seeker",0,394
+"ACHIEVEMENT_NAME_1649","シーカーのジョブレベルが44になった","Reach level 44 as a Seeker",0,395
+"ACHIEVEMENT_NAME_1650","シーカーのジョブレベルが45になった","Reach level 45 as a Seeker",0,396
+"ACHIEVEMENT_NAME_1651","シーカーのジョブレベルが46になった","Reach level 46 as a Seeker",0,397
+"ACHIEVEMENT_NAME_1652","シーカーのジョブレベルが47になった","Reach level 47 as a Seeker",0,398
+"ACHIEVEMENT_NAME_1653","シーカーのジョブレベルが48になった","Reach level 48 as a Seeker",0,399
+"ACHIEVEMENT_NAME_1654","シーカーのジョブレベルが49になった","Reach level 49 as a Seeker",0,400
+"ACHIEVEMENT_NAME_1655","シーカーのジョブレベルが50になった","Reach level 50 as a Seeker",0,401
+"ACHIEVEMENT_NAME_1656","シーカーのジョブレベルが51になった","Reach level 51 as a Seeker",0,402
+"ACHIEVEMENT_NAME_1657","シーカーのジョブレベルが52になった","Reach level 52 as a Seeker",0,403
+"ACHIEVEMENT_NAME_1658","シーカーのジョブレベルが53になった","Reach level 53 as a Seeker",0,404
+"ACHIEVEMENT_NAME_1659","シーカーのジョブレベルが54になった","Reach level 54 as a Seeker",0,405
+"ACHIEVEMENT_NAME_1660","シーカーのジョブレベルが55になった","Reach level 55 as a Seeker",0,406
+"ACHIEVEMENT_NAME_1661","シーカーのジョブレベルが56になった","Reach level 56 as a Seeker",0,407
+"ACHIEVEMENT_NAME_1662","シーカーのジョブレベルが57になった","Reach level 57 as a Seeker",0,408
+"ACHIEVEMENT_NAME_1663","シーカーのジョブレベルが58になった","Reach level 58 as a Seeker",0,409
+"ACHIEVEMENT_NAME_1664","シーカーのジョブレベルが59になった","Reach level 59 as a Seeker",0,410
+"ACHIEVEMENT_NAME_1665","シーカーのジョブレベルが60になった","Reach level 60 as a Seeker",0,411
+"ACHIEVEMENT_NAME_1371","ハンターのジョブレベルが2になった","Reach level 2 as a Hunter",0,412
+"ACHIEVEMENT_NAME_1372","ハンターのジョブレベルが3になった","Reach level 3 as a Hunter",0,413
+"ACHIEVEMENT_NAME_1373","ハンターのジョブレベルが4になった","Reach level 4 as a Hunter",0,414
+"ACHIEVEMENT_NAME_1374","ハンターのジョブレベルが5になった","Reach level 5 as a Hunter",0,415
+"ACHIEVEMENT_NAME_1375","ハンターのジョブレベルが6になった","Reach level 6 as a Hunter",0,416
+"ACHIEVEMENT_NAME_1376","ハンターのジョブレベルが7になった","Reach level 7 as a Hunter",0,417
+"ACHIEVEMENT_NAME_1377","ハンターのジョブレベルが8になった","Reach level 8 as a Hunter",0,418
+"ACHIEVEMENT_NAME_1378","ハンターのジョブレベルが9になった","Reach level 9 as a Hunter",0,419
+"ACHIEVEMENT_NAME_1379","ハンターのジョブレベルが10になった","Reach level 10 as a Hunter",0,420
+"ACHIEVEMENT_NAME_1380","ハンターのジョブレベルが11になった","Reach level 11 as a Hunter",0,421
+"ACHIEVEMENT_NAME_1381","ハンターのジョブレベルが12になった","Reach level 12 as a Hunter",0,422
+"ACHIEVEMENT_NAME_1382","ハンターのジョブレベルが13になった","Reach level 13 as a Hunter",0,423
+"ACHIEVEMENT_NAME_1383","ハンターのジョブレベルが14になった","Reach level 14 as a Hunter",0,424
+"ACHIEVEMENT_NAME_1384","ハンターのジョブレベルが15になった","Reach level 15 as a Hunter",0,425
+"ACHIEVEMENT_NAME_1385","ハンターのジョブレベルが16になった","Reach level 16 as a Hunter",0,426
+"ACHIEVEMENT_NAME_1386","ハンターのジョブレベルが17になった","Reach level 17 as a Hunter",0,427
+"ACHIEVEMENT_NAME_1387","ハンターのジョブレベルが18になった","Reach level 18 as a Hunter",0,428
+"ACHIEVEMENT_NAME_1388","ハンターのジョブレベルが19になった","Reach level 19 as a Hunter",0,429
+"ACHIEVEMENT_NAME_1389","ハンターのジョブレベルが20になった","Reach level 20 as a Hunter",0,430
+"ACHIEVEMENT_NAME_1390","ハンターのジョブレベルが21になった","Reach level 21 as a Hunter",0,431
+"ACHIEVEMENT_NAME_1391","ハンターのジョブレベルが22になった","Reach level 22 as a Hunter",0,432
+"ACHIEVEMENT_NAME_1392","ハンターのジョブレベルが23になった","Reach level 23 as a Hunter",0,433
+"ACHIEVEMENT_NAME_1393","ハンターのジョブレベルが24になった","Reach level 24 as a Hunter",0,434
+"ACHIEVEMENT_NAME_1394","ハンターのジョブレベルが25になった","Reach level 25 as a Hunter",0,435
+"ACHIEVEMENT_NAME_1395","ハンターのジョブレベルが26になった","Reach level 26 as a Hunter",0,436
+"ACHIEVEMENT_NAME_1396","ハンターのジョブレベルが27になった","Reach level 27 as a Hunter",0,437
+"ACHIEVEMENT_NAME_1397","ハンターのジョブレベルが28になった","Reach level 28 as a Hunter",0,438
+"ACHIEVEMENT_NAME_1398","ハンターのジョブレベルが29になった","Reach level 29 as a Hunter",0,439
+"ACHIEVEMENT_NAME_1399","ハンターのジョブレベルが30になった","Reach level 30 as a Hunter",0,440
+"ACHIEVEMENT_NAME_1400","ハンターのジョブレベルが31になった","Reach level 31 as a Hunter",0,441
+"ACHIEVEMENT_NAME_1401","ハンターのジョブレベルが32になった","Reach level 32 as a Hunter",0,442
+"ACHIEVEMENT_NAME_1402","ハンターのジョブレベルが33になった","Reach level 33 as a Hunter",0,443
+"ACHIEVEMENT_NAME_1403","ハンターのジョブレベルが34になった","Reach level 34 as a Hunter",0,444
+"ACHIEVEMENT_NAME_1404","ハンターのジョブレベルが35になった","Reach level 35 as a Hunter",0,445
+"ACHIEVEMENT_NAME_1405","ハンターのジョブレベルが36になった","Reach level 36 as a Hunter",0,446
+"ACHIEVEMENT_NAME_1406","ハンターのジョブレベルが37になった","Reach level 37 as a Hunter",0,447
+"ACHIEVEMENT_NAME_1407","ハンターのジョブレベルが38になった","Reach level 38 as a Hunter",0,448
+"ACHIEVEMENT_NAME_1408","ハンターのジョブレベルが39になった","Reach level 39 as a Hunter",0,449
+"ACHIEVEMENT_NAME_1409","ハンターのジョブレベルが40になった","Reach level 40 as a Hunter",0,450
+"ACHIEVEMENT_NAME_1410","ハンターのジョブレベルが41になった","Reach level 41 as a Hunter",0,451
+"ACHIEVEMENT_NAME_1411","ハンターのジョブレベルが42になった","Reach level 42 as a Hunter",0,452
+"ACHIEVEMENT_NAME_1412","ハンターのジョブレベルが43になった","Reach level 43 as a Hunter",0,453
+"ACHIEVEMENT_NAME_1413","ハンターのジョブレベルが44になった","Reach level 44 as a Hunter",0,454
+"ACHIEVEMENT_NAME_1414","ハンターのジョブレベルが45になった","Reach level 45 as a Hunter",0,455
+"ACHIEVEMENT_NAME_1415","ハンターのジョブレベルが46になった","Reach level 46 as a Hunter",0,456
+"ACHIEVEMENT_NAME_1416","ハンターのジョブレベルが47になった","Reach level 47 as a Hunter",0,457
+"ACHIEVEMENT_NAME_1417","ハンターのジョブレベルが48になった","Reach level 48 as a Hunter",0,458
+"ACHIEVEMENT_NAME_1418","ハンターのジョブレベルが49になった","Reach level 49 as a Hunter",0,459
+"ACHIEVEMENT_NAME_1419","ハンターのジョブレベルが50になった","Reach level 50 as a Hunter",0,460
+"ACHIEVEMENT_NAME_1420","ハンターのジョブレベルが51になった","Reach level 51 as a Hunter",0,461
+"ACHIEVEMENT_NAME_1421","ハンターのジョブレベルが52になった","Reach level 52 as a Hunter",0,462
+"ACHIEVEMENT_NAME_1422","ハンターのジョブレベルが53になった","Reach level 53 as a Hunter",0,463
+"ACHIEVEMENT_NAME_1423","ハンターのジョブレベルが54になった","Reach level 54 as a Hunter",0,464
+"ACHIEVEMENT_NAME_1424","ハンターのジョブレベルが55になった","Reach level 55 as a Hunter",0,465
+"ACHIEVEMENT_NAME_1425","ハンターのジョブレベルが56になった","Reach level 56 as a Hunter",0,466
+"ACHIEVEMENT_NAME_1426","ハンターのジョブレベルが57になった","Reach level 57 as a Hunter",0,467
+"ACHIEVEMENT_NAME_1427","ハンターのジョブレベルが58になった","Reach level 58 as a Hunter",0,468
+"ACHIEVEMENT_NAME_1428","ハンターのジョブレベルが59になった","Reach level 59 as a Hunter",0,469
+"ACHIEVEMENT_NAME_1429","ハンターのジョブレベルが60になった","Reach level 60 as a Hunter",0,470
+"ACHIEVEMENT_NAME_1430","プリーストのジョブレベルが2になった","Reach level 2 as a Priest",0,471
+"ACHIEVEMENT_NAME_1431","プリーストのジョブレベルが3になった","Reach level 3 as a Priest",0,472
+"ACHIEVEMENT_NAME_1432","プリーストのジョブレベルが4になった","Reach level 4 as a Priest",0,473
+"ACHIEVEMENT_NAME_1433","プリーストのジョブレベルが5になった","Reach level 5 as a Priest",0,474
+"ACHIEVEMENT_NAME_1434","プリーストのジョブレベルが6になった","Reach level 6 as a Priest",0,475
+"ACHIEVEMENT_NAME_1435","プリーストのジョブレベルが7になった","Reach level 7 as a Priest",0,476
+"ACHIEVEMENT_NAME_1436","プリーストのジョブレベルが8になった","Reach level 8 as a Priest",0,477
+"ACHIEVEMENT_NAME_1437","プリーストのジョブレベルが9になった","Reach level 9 as a Priest",0,478
+"ACHIEVEMENT_NAME_1438","プリーストのジョブレベルが10になった","Reach level 10 as a Priest",0,479
+"ACHIEVEMENT_NAME_1439","プリーストのジョブレベルが11になった","Reach level 11 as a Priest",0,480
+"ACHIEVEMENT_NAME_1440","プリーストのジョブレベルが12になった","Reach level 12 as a Priest",0,481
+"ACHIEVEMENT_NAME_1441","プリーストのジョブレベルが13になった","Reach level 13 as a Priest",0,482
+"ACHIEVEMENT_NAME_1442","プリーストのジョブレベルが14になった","Reach level 14 as a Priest",0,483
+"ACHIEVEMENT_NAME_1443","プリーストのジョブレベルが15になった","Reach level 15 as a Priest",0,484
+"ACHIEVEMENT_NAME_1444","プリーストのジョブレベルが16になった","Reach level 16 as a Priest",0,485
+"ACHIEVEMENT_NAME_1445","プリーストのジョブレベルが17になった","Reach level 17 as a Priest",0,486
+"ACHIEVEMENT_NAME_1446","プリーストのジョブレベルが18になった","Reach level 18 as a Priest",0,487
+"ACHIEVEMENT_NAME_1447","プリーストのジョブレベルが19になった","Reach level 19 as a Priest",0,488
+"ACHIEVEMENT_NAME_1448","プリーストのジョブレベルが20になった","Reach level 20 as a Priest",0,489
+"ACHIEVEMENT_NAME_1449","プリーストのジョブレベルが21になった","Reach level 21 as a Priest",0,490
+"ACHIEVEMENT_NAME_1450","プリーストのジョブレベルが22になった","Reach level 22 as a Priest",0,491
+"ACHIEVEMENT_NAME_1451","プリーストのジョブレベルが23になった","Reach level 23 as a Priest",0,492
+"ACHIEVEMENT_NAME_1452","プリーストのジョブレベルが24になった","Reach level 24 as a Priest",0,493
+"ACHIEVEMENT_NAME_1453","プリーストのジョブレベルが25になった","Reach level 25 as a Priest",0,494
+"ACHIEVEMENT_NAME_1454","プリーストのジョブレベルが26になった","Reach level 26 as a Priest",0,495
+"ACHIEVEMENT_NAME_1455","プリーストのジョブレベルが27になった","Reach level 27 as a Priest",0,496
+"ACHIEVEMENT_NAME_1456","プリーストのジョブレベルが28になった","Reach level 28 as a Priest",0,497
+"ACHIEVEMENT_NAME_1457","プリーストのジョブレベルが29になった","Reach level 29 as a Priest",0,498
+"ACHIEVEMENT_NAME_1458","プリーストのジョブレベルが30になった","Reach level 30 as a Priest",0,499
+"ACHIEVEMENT_NAME_1459","プリーストのジョブレベルが31になった","Reach level 31 as a Priest",0,500
+"ACHIEVEMENT_NAME_1460","プリーストのジョブレベルが32になった","Reach level 32 as a Priest",0,501
+"ACHIEVEMENT_NAME_1461","プリーストのジョブレベルが33になった","Reach level 33 as a Priest",0,502
+"ACHIEVEMENT_NAME_1462","プリーストのジョブレベルが34になった","Reach level 34 as a Priest",0,503
+"ACHIEVEMENT_NAME_1463","プリーストのジョブレベルが35になった","Reach level 35 as a Priest",0,504
+"ACHIEVEMENT_NAME_1464","プリーストのジョブレベルが36になった","Reach level 36 as a Priest",0,505
+"ACHIEVEMENT_NAME_1465","プリーストのジョブレベルが37になった","Reach level 37 as a Priest",0,506
+"ACHIEVEMENT_NAME_1466","プリーストのジョブレベルが38になった","Reach level 38 as a Priest",0,507
+"ACHIEVEMENT_NAME_1467","プリーストのジョブレベルが39になった","Reach level 39 as a Priest",0,508
+"ACHIEVEMENT_NAME_1468","プリーストのジョブレベルが40になった","Reach level 40 as a Priest",0,509
+"ACHIEVEMENT_NAME_1469","プリーストのジョブレベルが41になった","Reach level 41 as a Priest",0,510
+"ACHIEVEMENT_NAME_1470","プリーストのジョブレベルが42になった","Reach level 42 as a Priest",0,511
+"ACHIEVEMENT_NAME_1471","プリーストのジョブレベルが43になった","Reach level 43 as a Priest",0,512
+"ACHIEVEMENT_NAME_1472","プリーストのジョブレベルが44になった","Reach level 44 as a Priest",0,513
+"ACHIEVEMENT_NAME_1473","プリーストのジョブレベルが45になった","Reach level 45 as a Priest",0,514
+"ACHIEVEMENT_NAME_1474","プリーストのジョブレベルが46になった","Reach level 46 as a Priest",0,515
+"ACHIEVEMENT_NAME_1475","プリーストのジョブレベルが47になった","Reach level 47 as a Priest",0,516
+"ACHIEVEMENT_NAME_1476","プリーストのジョブレベルが48になった","Reach level 48 as a Priest",0,517
+"ACHIEVEMENT_NAME_1477","プリーストのジョブレベルが49になった","Reach level 49 as a Priest",0,518
+"ACHIEVEMENT_NAME_1478","プリーストのジョブレベルが50になった","Reach level 50 as a Priest",0,519
+"ACHIEVEMENT_NAME_1479","プリーストのジョブレベルが51になった","Reach level 51 as a Priest",0,520
+"ACHIEVEMENT_NAME_1480","プリーストのジョブレベルが52になった","Reach level 52 as a Priest",0,521
+"ACHIEVEMENT_NAME_1481","プリーストのジョブレベルが53になった","Reach level 53 as a Priest",0,522
+"ACHIEVEMENT_NAME_1482","プリーストのジョブレベルが54になった","Reach level 54 as a Priest",0,523
+"ACHIEVEMENT_NAME_1483","プリーストのジョブレベルが55になった","Reach level 55 as a Priest",0,524
+"ACHIEVEMENT_NAME_1484","プリーストのジョブレベルが56になった","Reach level 56 as a Priest",0,525
+"ACHIEVEMENT_NAME_1485","プリーストのジョブレベルが57になった","Reach level 57 as a Priest",0,526
+"ACHIEVEMENT_NAME_1486","プリーストのジョブレベルが58になった","Reach level 58 as a Priest",0,527
+"ACHIEVEMENT_NAME_1487","プリーストのジョブレベルが59になった","Reach level 59 as a Priest",0,528
+"ACHIEVEMENT_NAME_1488","プリーストのジョブレベルが60になった","Reach level 60 as a Priest",0,529
+"ACHIEVEMENT_NAME_1489","シールドセージのジョブレベルが2になった","Reach level 2 as a Shield Sage",0,530
+"ACHIEVEMENT_NAME_1490","シールドセージのジョブレベルが3になった","Reach level 3 as a Shield Sage",0,531
+"ACHIEVEMENT_NAME_1491","シールドセージのジョブレベルが4になった","Reach level 4 as a Shield Sage",0,532
+"ACHIEVEMENT_NAME_1492","シールドセージのジョブレベルが5になった","Reach level 5 as a Shield Sage",0,533
+"ACHIEVEMENT_NAME_1493","シールドセージのジョブレベルが6になった","Reach level 6 as a Shield Sage",0,534
+"ACHIEVEMENT_NAME_1494","シールドセージのジョブレベルが7になった","Reach level 7 as a Shield Sage",0,535
+"ACHIEVEMENT_NAME_1495","シールドセージのジョブレベルが8になった","Reach level 8 as a Shield Sage",0,536
+"ACHIEVEMENT_NAME_1496","シールドセージのジョブレベルが9になった","Reach level 9 as a Shield Sage",0,537
+"ACHIEVEMENT_NAME_1497","シールドセージのジョブレベルが10になった","Reach level 10 as a Shield Sage",0,538
+"ACHIEVEMENT_NAME_1498","シールドセージのジョブレベルが11になった","Reach level 11 as a Shield Sage",0,539
+"ACHIEVEMENT_NAME_1499","シールドセージのジョブレベルが12になった","Reach level 12 as a Shield Sage",0,540
+"ACHIEVEMENT_NAME_1500","シールドセージのジョブレベルが13になった","Reach level 13 as a Shield Sage",0,541
+"ACHIEVEMENT_NAME_1501","シールドセージのジョブレベルが14になった","Reach level 14 as a Shield Sage",0,542
+"ACHIEVEMENT_NAME_1502","シールドセージのジョブレベルが15になった","Reach level 15 as a Shield Sage",0,543
+"ACHIEVEMENT_NAME_1503","シールドセージのジョブレベルが16になった","Reach level 16 as a Shield Sage",0,544
+"ACHIEVEMENT_NAME_1504","シールドセージのジョブレベルが17になった","Reach level 17 as a Shield Sage",0,545
+"ACHIEVEMENT_NAME_1505","シールドセージのジョブレベルが18になった","Reach level 18 as a Shield Sage",0,546
+"ACHIEVEMENT_NAME_1506","シールドセージのジョブレベルが19になった","Reach level 19 as a Shield Sage",0,547
+"ACHIEVEMENT_NAME_1507","シールドセージのジョブレベルが20になった","Reach level 20 as a Shield Sage",0,548
+"ACHIEVEMENT_NAME_1508","シールドセージのジョブレベルが21になった","Reach level 21 as a Shield Sage",0,549
+"ACHIEVEMENT_NAME_1509","シールドセージのジョブレベルが22になった","Reach level 22 as a Shield Sage",0,550
+"ACHIEVEMENT_NAME_1510","シールドセージのジョブレベルが23になった","Reach level 23 as a Shield Sage",0,551
+"ACHIEVEMENT_NAME_1511","シールドセージのジョブレベルが24になった","Reach level 24 as a Shield Sage",0,552
+"ACHIEVEMENT_NAME_1512","シールドセージのジョブレベルが25になった","Reach level 25 as a Shield Sage",0,553
+"ACHIEVEMENT_NAME_1513","シールドセージのジョブレベルが26になった","Reach level 26 as a Shield Sage",0,554
+"ACHIEVEMENT_NAME_1514","シールドセージのジョブレベルが27になった","Reach level 27 as a Shield Sage",0,555
+"ACHIEVEMENT_NAME_1515","シールドセージのジョブレベルが28になった","Reach level 28 as a Shield Sage",0,556
+"ACHIEVEMENT_NAME_1516","シールドセージのジョブレベルが29になった","Reach level 29 as a Shield Sage",0,557
+"ACHIEVEMENT_NAME_1517","シールドセージのジョブレベルが30になった","Reach level 30 as a Shield Sage",0,558
+"ACHIEVEMENT_NAME_1518","シールドセージのジョブレベルが31になった","Reach level 31 as a Shield Sage",0,559
+"ACHIEVEMENT_NAME_1519","シールドセージのジョブレベルが32になった","Reach level 32 as a Shield Sage",0,560
+"ACHIEVEMENT_NAME_1520","シールドセージのジョブレベルが33になった","Reach level 33 as a Shield Sage",0,561
+"ACHIEVEMENT_NAME_1521","シールドセージのジョブレベルが34になった","Reach level 34 as a Shield Sage",0,562
+"ACHIEVEMENT_NAME_1522","シールドセージのジョブレベルが35になった","Reach level 35 as a Shield Sage",0,563
+"ACHIEVEMENT_NAME_1523","シールドセージのジョブレベルが36になった","Reach level 36 as a Shield Sage",0,564
+"ACHIEVEMENT_NAME_1524","シールドセージのジョブレベルが37になった","Reach level 37 as a Shield Sage",0,565
+"ACHIEVEMENT_NAME_1525","シールドセージのジョブレベルが38になった","Reach level 38 as a Shield Sage",0,566
+"ACHIEVEMENT_NAME_1526","シールドセージのジョブレベルが39になった","Reach level 39 as a Shield Sage",0,567
+"ACHIEVEMENT_NAME_1527","シールドセージのジョブレベルが40になった","Reach level 40 as a Shield Sage",0,568
+"ACHIEVEMENT_NAME_1528","シールドセージのジョブレベルが41になった","Reach level 41 as a Shield Sage",0,569
+"ACHIEVEMENT_NAME_1529","シールドセージのジョブレベルが42になった","Reach level 42 as a Shield Sage",0,570
+"ACHIEVEMENT_NAME_1530","シールドセージのジョブレベルが43になった","Reach level 43 as a Shield Sage",0,571
+"ACHIEVEMENT_NAME_1531","シールドセージのジョブレベルが44になった","Reach level 44 as a Shield Sage",0,572
+"ACHIEVEMENT_NAME_1532","シールドセージのジョブレベルが45になった","Reach level 45 as a Shield Sage",0,573
+"ACHIEVEMENT_NAME_1533","シールドセージのジョブレベルが46になった","Reach level 46 as a Shield Sage",0,574
+"ACHIEVEMENT_NAME_1534","シールドセージのジョブレベルが47になった","Reach level 47 as a Shield Sage",0,575
+"ACHIEVEMENT_NAME_1535","シールドセージのジョブレベルが48になった","Reach level 48 as a Shield Sage",0,576
+"ACHIEVEMENT_NAME_1536","シールドセージのジョブレベルが49になった","Reach level 49 as a Shield Sage",0,577
+"ACHIEVEMENT_NAME_1537","シールドセージのジョブレベルが50になった","Reach level 50 as a Shield Sage",0,578
+"ACHIEVEMENT_NAME_1538","シールドセージのジョブレベルが51になった","Reach level 51 as a Shield Sage",0,579
+"ACHIEVEMENT_NAME_1539","シールドセージのジョブレベルが52になった","Reach level 52 as a Shield Sage",0,580
+"ACHIEVEMENT_NAME_1540","シールドセージのジョブレベルが53になった","Reach level 53 as a Shield Sage",0,581
+"ACHIEVEMENT_NAME_1541","シールドセージのジョブレベルが54になった","Reach level 54 as a Shield Sage",0,582
+"ACHIEVEMENT_NAME_1542","シールドセージのジョブレベルが55になった","Reach level 55 as a Shield Sage",0,583
+"ACHIEVEMENT_NAME_1543","シールドセージのジョブレベルが56になった","Reach level 56 as a Shield Sage",0,584
+"ACHIEVEMENT_NAME_1544","シールドセージのジョブレベルが57になった","Reach level 57 as a Shield Sage",0,585
+"ACHIEVEMENT_NAME_1545","シールドセージのジョブレベルが58になった","Reach level 58 as a Shield Sage",0,586
+"ACHIEVEMENT_NAME_1546","シールドセージのジョブレベルが59になった","Reach level 59 as a Shield Sage",0,587
+"ACHIEVEMENT_NAME_1547","シールドセージのジョブレベルが60になった","Reach level 60 as a Shield Sage",0,588
+"ACHIEVEMENT_NAME_1548","ソーサラーのジョブレベルが2になった","Reach level 2 as a Sorcerer",0,589
+"ACHIEVEMENT_NAME_1549","ソーサラーのジョブレベルが3になった","Reach level 3 as a Sorcerer",0,590
+"ACHIEVEMENT_NAME_1550","ソーサラーのジョブレベルが4になった","Reach level 4 as a Sorcerer",0,591
+"ACHIEVEMENT_NAME_1551","ソーサラーのジョブレベルが5になった","Reach level 5 as a Sorcerer",0,592
+"ACHIEVEMENT_NAME_1552","ソーサラーのジョブレベルが6になった","Reach level 6 as a Sorcerer",0,593
+"ACHIEVEMENT_NAME_1553","ソーサラーのジョブレベルが7になった","Reach level 7 as a Sorcerer",0,594
+"ACHIEVEMENT_NAME_1554","ソーサラーのジョブレベルが8になった","Reach level 8 as a Sorcerer",0,595
+"ACHIEVEMENT_NAME_1555","ソーサラーのジョブレベルが9になった","Reach level 9 as a Sorcerer",0,596
+"ACHIEVEMENT_NAME_1556","ソーサラーのジョブレベルが10になった","Reach level 10 as a Sorcerer",0,597
+"ACHIEVEMENT_NAME_1557","ソーサラーのジョブレベルが11になった","Reach level 11 as a Sorcerer",0,598
+"ACHIEVEMENT_NAME_1558","ソーサラーのジョブレベルが12になった","Reach level 12 as a Sorcerer",0,599
+"ACHIEVEMENT_NAME_1559","ソーサラーのジョブレベルが13になった","Reach level 13 as a Sorcerer",0,600
+"ACHIEVEMENT_NAME_1560","ソーサラーのジョブレベルが14になった","Reach level 14 as a Sorcerer",0,601
+"ACHIEVEMENT_NAME_1561","ソーサラーのジョブレベルが15になった","Reach level 15 as a Sorcerer",0,602
+"ACHIEVEMENT_NAME_1562","ソーサラーのジョブレベルが16になった","Reach level 16 as a Sorcerer",0,603
+"ACHIEVEMENT_NAME_1563","ソーサラーのジョブレベルが17になった","Reach level 17 as a Sorcerer",0,604
+"ACHIEVEMENT_NAME_1564","ソーサラーのジョブレベルが18になった","Reach level 18 as a Sorcerer",0,605
+"ACHIEVEMENT_NAME_1565","ソーサラーのジョブレベルが19になった","Reach level 19 as a Sorcerer",0,606
+"ACHIEVEMENT_NAME_1566","ソーサラーのジョブレベルが20になった","Reach level 20 as a Sorcerer",0,607
+"ACHIEVEMENT_NAME_1567","ソーサラーのジョブレベルが21になった","Reach level 21 as a Sorcerer",0,608
+"ACHIEVEMENT_NAME_1568","ソーサラーのジョブレベルが22になった","Reach level 22 as a Sorcerer",0,609
+"ACHIEVEMENT_NAME_1569","ソーサラーのジョブレベルが23になった","Reach level 23 as a Sorcerer",0,610
+"ACHIEVEMENT_NAME_1570","ソーサラーのジョブレベルが24になった","Reach level 24 as a Sorcerer",0,611
+"ACHIEVEMENT_NAME_1571","ソーサラーのジョブレベルが25になった","Reach level 25 as a Sorcerer",0,612
+"ACHIEVEMENT_NAME_1572","ソーサラーのジョブレベルが26になった","Reach level 26 as a Sorcerer",0,613
+"ACHIEVEMENT_NAME_1573","ソーサラーのジョブレベルが27になった","Reach level 27 as a Sorcerer",0,614
+"ACHIEVEMENT_NAME_1574","ソーサラーのジョブレベルが28になった","Reach level 28 as a Sorcerer",0,615
+"ACHIEVEMENT_NAME_1575","ソーサラーのジョブレベルが29になった","Reach level 29 as a Sorcerer",0,616
+"ACHIEVEMENT_NAME_1576","ソーサラーのジョブレベルが30になった","Reach level 30 as a Sorcerer",0,617
+"ACHIEVEMENT_NAME_1577","ソーサラーのジョブレベルが31になった","Reach level 31 as a Sorcerer",0,618
+"ACHIEVEMENT_NAME_1578","ソーサラーのジョブレベルが32になった","Reach level 32 as a Sorcerer",0,619
+"ACHIEVEMENT_NAME_1579","ソーサラーのジョブレベルが33になった","Reach level 33 as a Sorcerer",0,620
+"ACHIEVEMENT_NAME_1580","ソーサラーのジョブレベルが34になった","Reach level 34 as a Sorcerer",0,621
+"ACHIEVEMENT_NAME_1581","ソーサラーのジョブレベルが35になった","Reach level 35 as a Sorcerer",0,622
+"ACHIEVEMENT_NAME_1582","ソーサラーのジョブレベルが36になった","Reach level 36 as a Sorcerer",0,623
+"ACHIEVEMENT_NAME_1583","ソーサラーのジョブレベルが37になった","Reach level 37 as a Sorcerer",0,624
+"ACHIEVEMENT_NAME_1584","ソーサラーのジョブレベルが38になった","Reach level 38 as a Sorcerer",0,625
+"ACHIEVEMENT_NAME_1585","ソーサラーのジョブレベルが39になった","Reach level 39 as a Sorcerer",0,626
+"ACHIEVEMENT_NAME_1586","ソーサラーのジョブレベルが40になった","Reach level 40 as a Sorcerer",0,627
+"ACHIEVEMENT_NAME_1587","ソーサラーのジョブレベルが41になった","Reach level 41 as a Sorcerer",0,628
+"ACHIEVEMENT_NAME_1588","ソーサラーのジョブレベルが42になった","Reach level 42 as a Sorcerer",0,629
+"ACHIEVEMENT_NAME_1589","ソーサラーのジョブレベルが43になった","Reach level 43 as a Sorcerer",0,630
+"ACHIEVEMENT_NAME_1590","ソーサラーのジョブレベルが44になった","Reach level 44 as a Sorcerer",0,631
+"ACHIEVEMENT_NAME_1591","ソーサラーのジョブレベルが45になった","Reach level 45 as a Sorcerer",0,632
+"ACHIEVEMENT_NAME_1592","ソーサラーのジョブレベルが46になった","Reach level 46 as a Sorcerer",0,633
+"ACHIEVEMENT_NAME_1593","ソーサラーのジョブレベルが47になった","Reach level 47 as a Sorcerer",0,634
+"ACHIEVEMENT_NAME_1594","ソーサラーのジョブレベルが48になった","Reach level 48 as a Sorcerer",0,635
+"ACHIEVEMENT_NAME_1595","ソーサラーのジョブレベルが49になった","Reach level 49 as a Sorcerer",0,636
+"ACHIEVEMENT_NAME_1596","ソーサラーのジョブレベルが50になった","Reach level 50 as a Sorcerer",0,637
+"ACHIEVEMENT_NAME_1597","ソーサラーのジョブレベルが51になった","Reach level 51 as a Sorcerer",0,638
+"ACHIEVEMENT_NAME_1598","ソーサラーのジョブレベルが52になった","Reach level 52 as a Sorcerer",0,639
+"ACHIEVEMENT_NAME_1599","ソーサラーのジョブレベルが53になった","Reach level 53 as a Sorcerer",0,640
+"ACHIEVEMENT_NAME_1600","ソーサラーのジョブレベルが54になった","Reach level 54 as a Sorcerer",0,641
+"ACHIEVEMENT_NAME_1601","ソーサラーのジョブレベルが55になった","Reach level 55 as a Sorcerer",0,642
+"ACHIEVEMENT_NAME_1602","ソーサラーのジョブレベルが56になった","Reach level 56 as a Sorcerer",0,643
+"ACHIEVEMENT_NAME_1603","ソーサラーのジョブレベルが57になった","Reach level 57 as a Sorcerer",0,644
+"ACHIEVEMENT_NAME_1604","ソーサラーのジョブレベルが58になった","Reach level 58 as a Sorcerer",0,645
+"ACHIEVEMENT_NAME_1605","ソーサラーのジョブレベルが59になった","Reach level 59 as a Sorcerer",0,646
+"ACHIEVEMENT_NAME_1606","ソーサラーのジョブレベルが60になった","Reach level 60 as a Sorcerer",0,647
+"ACHIEVEMENT_NAME_1666","エレメントアーチャーのジョブレベルが2になった","Reach level 2 as an Element Archer",0,648
+"ACHIEVEMENT_NAME_1667","エレメントアーチャーのジョブレベルが3になった","Reach level 3 as an Element Archer",0,649
+"ACHIEVEMENT_NAME_1668","エレメントアーチャーのジョブレベルが4になった","Reach level 4 as an Element Archer",0,650
+"ACHIEVEMENT_NAME_1669","エレメントアーチャーのジョブレベルが5になった","Reach level 5 as an Element Archer",0,651
+"ACHIEVEMENT_NAME_1670","エレメントアーチャーのジョブレベルが6になった","Reach level 6 as an Element Archer",0,652
+"ACHIEVEMENT_NAME_1671","エレメントアーチャーのジョブレベルが7になった","Reach level 7 as an Element Archer",0,653
+"ACHIEVEMENT_NAME_1672","エレメントアーチャーのジョブレベルが8になった","Reach level 8 as an Element Archer",0,654
+"ACHIEVEMENT_NAME_1673","エレメントアーチャーのジョブレベルが9になった","Reach level 9 as an Element Archer",0,655
+"ACHIEVEMENT_NAME_1674","エレメントアーチャーのジョブレベルが10になった","Reach level 10 as an Element Archer",0,656
+"ACHIEVEMENT_NAME_1675","エレメントアーチャーのジョブレベルが11になった","Reach level 11 as an Element Archer",0,657
+"ACHIEVEMENT_NAME_1676","エレメントアーチャーのジョブレベルが12になった","Reach level 12 as an Element Archer",0,658
+"ACHIEVEMENT_NAME_1677","エレメントアーチャーのジョブレベルが13になった","Reach level 13 as an Element Archer",0,659
+"ACHIEVEMENT_NAME_1678","エレメントアーチャーのジョブレベルが14になった","Reach level 14 as an Element Archer",0,660
+"ACHIEVEMENT_NAME_1679","エレメントアーチャーのジョブレベルが15になった","Reach level 15 as an Element Archer",0,661
+"ACHIEVEMENT_NAME_1680","エレメントアーチャーのジョブレベルが16になった","Reach level 16 as an Element Archer",0,662
+"ACHIEVEMENT_NAME_1681","エレメントアーチャーのジョブレベルが17になった","Reach level 17 as an Element Archer",0,663
+"ACHIEVEMENT_NAME_1682","エレメントアーチャーのジョブレベルが18になった","Reach level 18 as an Element Archer",0,664
+"ACHIEVEMENT_NAME_1683","エレメントアーチャーのジョブレベルが19になった","Reach level 19 as an Element Archer",0,665
+"ACHIEVEMENT_NAME_1684","エレメントアーチャーのジョブレベルが20になった","Reach level 20 as an Element Archer",0,666
+"ACHIEVEMENT_NAME_1685","エレメントアーチャーのジョブレベルが21になった","Reach level 21 as an Element Archer",0,667
+"ACHIEVEMENT_NAME_1686","エレメントアーチャーのジョブレベルが22になった","Reach level 22 as an Element Archer",0,668
+"ACHIEVEMENT_NAME_1687","エレメントアーチャーのジョブレベルが23になった","Reach level 23 as an Element Archer",0,669
+"ACHIEVEMENT_NAME_1688","エレメントアーチャーのジョブレベルが24になった","Reach level 24 as an Element Archer",0,670
+"ACHIEVEMENT_NAME_1689","エレメントアーチャーのジョブレベルが25になった","Reach level 25 as an Element Archer",0,671
+"ACHIEVEMENT_NAME_1690","エレメントアーチャーのジョブレベルが26になった","Reach level 26 as an Element Archer",0,672
+"ACHIEVEMENT_NAME_1691","エレメントアーチャーのジョブレベルが27になった","Reach level 27 as an Element Archer",0,673
+"ACHIEVEMENT_NAME_1692","エレメントアーチャーのジョブレベルが28になった","Reach level 28 as an Element Archer",0,674
+"ACHIEVEMENT_NAME_1693","エレメントアーチャーのジョブレベルが29になった","Reach level 29 as an Element Archer",0,675
+"ACHIEVEMENT_NAME_1694","エレメントアーチャーのジョブレベルが30になった","Reach level 30 as an Element Archer",0,676
+"ACHIEVEMENT_NAME_1695","エレメントアーチャーのジョブレベルが31になった","Reach level 31 as an Element Archer",0,677
+"ACHIEVEMENT_NAME_1696","エレメントアーチャーのジョブレベルが32になった","Reach level 32 as an Element Archer",0,678
+"ACHIEVEMENT_NAME_1697","エレメントアーチャーのジョブレベルが33になった","Reach level 33 as an Element Archer",0,679
+"ACHIEVEMENT_NAME_1698","エレメントアーチャーのジョブレベルが34になった","Reach level 34 as an Element Archer",0,680
+"ACHIEVEMENT_NAME_1699","エレメントアーチャーのジョブレベルが35になった","Reach level 35 as an Element Archer",0,681
+"ACHIEVEMENT_NAME_1700","エレメントアーチャーのジョブレベルが36になった","Reach level 36 as an Element Archer",0,682
+"ACHIEVEMENT_NAME_1701","エレメントアーチャーのジョブレベルが37になった","Reach level 37 as an Element Archer",0,683
+"ACHIEVEMENT_NAME_1702","エレメントアーチャーのジョブレベルが38になった","Reach level 38 as an Element Archer",0,684
+"ACHIEVEMENT_NAME_1703","エレメントアーチャーのジョブレベルが39になった","Reach level 39 as an Element Archer",0,685
+"ACHIEVEMENT_NAME_1704","エレメントアーチャーのジョブレベルが40になった","Reach level 40 as an Element Archer",0,686
+"ACHIEVEMENT_NAME_1705","エレメントアーチャーのジョブレベルが41になった","Reach level 41 as an Element Archer",0,687
+"ACHIEVEMENT_NAME_1706","エレメントアーチャーのジョブレベルが42になった","Reach level 42 as an Element Archer",0,688
+"ACHIEVEMENT_NAME_1707","エレメントアーチャーのジョブレベルが43になった","Reach level 43 as an Element Archer",0,689
+"ACHIEVEMENT_NAME_1708","エレメントアーチャーのジョブレベルが44になった","Reach level 44 as an Element Archer",0,690
+"ACHIEVEMENT_NAME_1709","エレメントアーチャーのジョブレベルが45になった","Reach level 45 as an Element Archer",0,691
+"ACHIEVEMENT_NAME_1710","エレメントアーチャーのジョブレベルが46になった","Reach level 46 as an Element Archer",0,692
+"ACHIEVEMENT_NAME_1711","エレメントアーチャーのジョブレベルが47になった","Reach level 47 as an Element Archer",0,693
+"ACHIEVEMENT_NAME_1712","エレメントアーチャーのジョブレベルが48になった","Reach level 48 as an Element Archer",0,694
+"ACHIEVEMENT_NAME_1713","エレメントアーチャーのジョブレベルが49になった","Reach level 49 as an Element Archer",0,695
+"ACHIEVEMENT_NAME_1714","エレメントアーチャーのジョブレベルが50になった","Reach level 50 as an Element Archer",0,696
+"ACHIEVEMENT_NAME_1715","エレメントアーチャーのジョブレベルが51になった","Reach level 51 as an Element Archer",0,697
+"ACHIEVEMENT_NAME_1716","エレメントアーチャーのジョブレベルが52になった","Reach level 52 as an Element Archer",0,698
+"ACHIEVEMENT_NAME_1717","エレメントアーチャーのジョブレベルが53になった","Reach level 53 as an Element Archer",0,699
+"ACHIEVEMENT_NAME_1718","エレメントアーチャーのジョブレベルが54になった","Reach level 54 as an Element Archer",0,700
+"ACHIEVEMENT_NAME_1719","エレメントアーチャーのジョブレベルが55になった","Reach level 55 as an Element Archer",0,701
+"ACHIEVEMENT_NAME_1720","エレメントアーチャーのジョブレベルが56になった","Reach level 56 as an Element Archer",0,702
+"ACHIEVEMENT_NAME_1721","エレメントアーチャーのジョブレベルが57になった","Reach level 57 as an Element Archer",0,703
+"ACHIEVEMENT_NAME_1722","エレメントアーチャーのジョブレベルが58になった","Reach level 58 as an Element Archer",0,704
+"ACHIEVEMENT_NAME_1723","エレメントアーチャーのジョブレベルが59になった","Reach level 59 as an Element Archer",0,705
+"ACHIEVEMENT_NAME_1724","エレメントアーチャーのジョブレベルが60になった","Reach level 60 as an Element Archer",0,706
