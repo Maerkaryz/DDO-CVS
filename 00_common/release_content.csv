@@ -1,26 +1,26 @@
-﻿RELEASE_CONTENT_1,"Party Play (With Other Players)",他のプレイヤーとのパーティープレイ,
-RELEASE_CONTENT_2,"Pawn and Party Play",ポーンとのパーティープレイ,
-RELEASE_CONTENT_3,"World Quest",ワールドクエスト,
-RELEASE_CONTENT_4,"Grand Mission",グランドミッション,
-RELEASE_CONTENT_7,"Lestania News",レスタニアニュース,
-RELEASE_CONTENT_8,"Job Training Log",ジョブ修練ログ,
-RELEASE_CONTENT_11,Craft,クラフト,
-RELEASE_CONTENT_12,"Rift Stone",リムストーン,
-RELEASE_CONTENT_13,"Quest Board",クエストボード,
-RELEASE_CONTENT_15,"Area Master",エリアマスター,
-RELEASE_CONTENT_17,"Fighter Job Training",ファイターのジョブ修練,
-RELEASE_CONTENT_18,"Hunter Job Training",ハンターのジョブ修練,
-RELEASE_CONTENT_19,"Priest Job Training",プリーストのジョブ修練,
-RELEASE_CONTENT_20,"Shield Sage Job Training",シールドセージのジョブ修練,
-RELEASE_CONTENT_21,"Seeker Job Training",シーカーのジョブ修練,
-RELEASE_CONTENT_22,"Sorcerer Job Training",ソーサラーのジョブ修練,
-RELEASE_CONTENT_24,"Elemental Archer Job Training",エレメントアーチャーのジョブ修練,
-RELEASE_CONTENT_26,"Change Jobs",他のジョブへの転職,
-RELEASE_CONTENT_27,"Create and Join Clans",クランの設立と加入,
-RELEASE_CONTENT_33,"Matching Profile",マッチングプロフィール,
-RELEASE_CONTENT_34,"Quick Party",クイックパーティー,
-RELEASE_CONTENT_9,,リム転移,
-RELEASE_CONTENT_10,,竜力の継承,
-RELEASE_CONTENT_16,,エリアマスターのワールドクエスト情報,
-RELEASE_CONTENT_29,,戦徒の契り,
-RELEASE_CONTENT_32,,冒険仲介係,
+1,RELEASE_CONTENT_1,Party Play (With Other Players),他のプレイヤーとのパーティープレイ
+2,RELEASE_CONTENT_2,Pawn and Party Play,ポーンとのパーティープレイ
+3,RELEASE_CONTENT_3,World Quest,ワールドクエスト
+4,RELEASE_CONTENT_4,Grand Mission,グランドミッション
+7,RELEASE_CONTENT_7,Lestania News,レスタニアニュース
+8,RELEASE_CONTENT_8,Job Training Log,ジョブ修練ログ
+9,RELEASE_CONTENT_9,,リム転移
+10,RELEASE_CONTENT_10,,竜力の継承
+11,RELEASE_CONTENT_11,Craft,クラフト
+12,RELEASE_CONTENT_12,Rift Stone,リムストーン
+13,RELEASE_CONTENT_13,Quest Board,クエストボード
+15,RELEASE_CONTENT_15,Area Master,エリアマスター
+16,RELEASE_CONTENT_16,,エリアマスターのワールドクエスト情報
+17,RELEASE_CONTENT_17,Fighter Job Training,ファイターのジョブ修練
+18,RELEASE_CONTENT_18,Hunter Job Training,ハンターのジョブ修練
+19,RELEASE_CONTENT_19,Priest Job Training,プリーストのジョブ修練
+20,RELEASE_CONTENT_20,Shield Sage Job Training,シールドセージのジョブ修練
+21,RELEASE_CONTENT_21,Seeker Job Training,シーカーのジョブ修練
+22,RELEASE_CONTENT_22,Sorcerer Job Training,ソーサラーのジョブ修練
+24,RELEASE_CONTENT_24,Elemental Archer Job Training,エレメントアーチャーのジョブ修練
+26,RELEASE_CONTENT_26,Change Jobs,他のジョブへの転職
+27,RELEASE_CONTENT_27,Create and Join Clans,クランの設立と加入
+29,RELEASE_CONTENT_29,,戦徒の契り
+32,RELEASE_CONTENT_32,,冒険仲介係
+33,RELEASE_CONTENT_33,Matching Profile,マッチングプロフィール
+34,RELEASE_CONTENT_34,Quick Party,クイックパーティー
