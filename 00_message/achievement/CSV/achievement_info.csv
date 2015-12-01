@@ -29,93 +29,93 @@
 "ACHIEVEMENT_INFO_585","敵を総計10000体討伐","Kill 10 000 total enemies",0,28
 "ACHIEVEMENT_INFO_1295","敵を総計20000体討伐","Kill 20 000 total enemies",0,29
 "ACHIEVEMENT_INFO_1296","敵を総計30000体討伐","Kill 30 000 total enemies",0,30
-"ACHIEVEMENT_INFO_590","《ゴブリン》系エネミーを50体討伐","Kill 50 《Goblin》 enemies",0,31
-"ACHIEVEMENT_INFO_591","《ゴブリン》系エネミーを200体討伐","Kill 200 《Goblin》 enemies",0,32
-"ACHIEVEMENT_INFO_592","《ゴブリン》系エネミーを500体討伐","Kill 500 《Goblin》 enemies",0,33
-"ACHIEVEMENT_INFO_608","《ホブゴブリン》系エネミーを30体討伐","Kill 30 《Hobgoblin》 enemies",0,34
-"ACHIEVEMENT_INFO_609","《ホブゴブリン》系エネミーを100体討伐","Kill 100 《Hobgoblin》 enemies",0,35
-"ACHIEVEMENT_INFO_610","《ホブゴブリン》系エネミーを300体討伐","Kill 300 《Hobgoblin》 enemies",0,36
-"ACHIEVEMENT_INFO_863","《フォレストゴブリン》系エネミーを50体討伐","Kill 50 《Forest Goblin》 enemies",0,37
-"ACHIEVEMENT_INFO_864","《フォレストゴブリン》系エネミーを200体討伐","Kill 200 《Forest Goblin》 enemies",0,38
-"ACHIEVEMENT_INFO_865","《フォレストゴブリン》系エネミーを500体討伐","Kill 500 《Forest Goblin》 enemies",0,39
-"ACHIEVEMENT_INFO_872","《レッドキャップ》系エネミーを30体討伐","Kill 30 《Redcap》 enemies",0,40
-"ACHIEVEMENT_INFO_873","《レッドキャップ》系エネミーを100体討伐","Kill 100 《Redcap》 enemies",0,41
-"ACHIEVEMENT_INFO_874","《レッドキャップ》系エネミーを300体討伐","Kill 300 《Redcap》 enemies",0,42
-"ACHIEVEMENT_INFO_881","《錬魔ゴブリン》系エネミーを50体討伐","Kill 50 《錬魔ゴブリン》 enemies",0,43
-"ACHIEVEMENT_INFO_882","《錬魔ゴブリン》系エネミーを200体討伐","Kill 200 《錬魔ゴブリン》 enemies",0,44
-"ACHIEVEMENT_INFO_883","《錬魔ゴブリン》系エネミーを500体討伐","Kill 500 《錬魔ゴブリン》 enemies",0,45
-"ACHIEVEMENT_INFO_623","《ウルフ》系エネミーを50体討伐","Kill 50 《Wolf》 enemies",0,46
-"ACHIEVEMENT_INFO_624","《ウルフ》系エネミーを200体討伐","Kill 200 《Wolf》 enemies",0,47
-"ACHIEVEMENT_INFO_625","《ウルフ》系エネミーを500体討伐","Kill 500 《Wolf》 enemies",0,48
-"ACHIEVEMENT_INFO_629","グリムワーグを50体討伐","Kill 50 Grim Wargs",0,49
-"ACHIEVEMENT_INFO_630","グリムワーグを100体討伐","Kill 100 Grim Wargs",0,50
-"ACHIEVEMENT_INFO_631","グリムワーグを300体討伐","Kill 300 Grim Wargs",0,51
-"ACHIEVEMENT_INFO_635","《錬魔オオカミ》系エネミーを50体討伐","Kill 50 《錬魔オオカミ》 enemies",0,52
-"ACHIEVEMENT_INFO_636","《錬魔オオカミ》系エネミーを100体討伐","Kill 100 《錬魔オオカミ》 enemies",0,53
-"ACHIEVEMENT_INFO_637","《錬魔オオカミ》系エネミーを300体討伐","Kill 300 《錬魔オオカミ》 enemies",0,54
-"ACHIEVEMENT_INFO_641","《スケルトン》系エネミーを50体討伐","Kill 50 《Skeleton》 enemies",0,55
-"ACHIEVEMENT_INFO_642","《スケルトン》系エネミーを300体討伐","Kill 300 《Skeleton》 enemies",0,56
-"ACHIEVEMENT_INFO_643","《スケルトン》系エネミーを1000体討伐","Kill 1000 《Skeleton》 enemies",0,57
+"ACHIEVEMENT_INFO_590","《ゴブリン》系エネミーを50体討伐","Kill 50 《Goblin》",0,31
+"ACHIEVEMENT_INFO_591","《ゴブリン》系エネミーを200体討伐","Kill 200 《Goblin》",0,32
+"ACHIEVEMENT_INFO_592","《ゴブリン》系エネミーを500体討伐","Kill 500 《Goblin》",0,33
+"ACHIEVEMENT_INFO_608","《ホブゴブリン》系エネミーを30体討伐","Kill 30 《Hobgoblin》",0,34
+"ACHIEVEMENT_INFO_609","《ホブゴブリン》系エネミーを100体討伐","Kill 100 《Hobgoblin》",0,35
+"ACHIEVEMENT_INFO_610","《ホブゴブリン》系エネミーを300体討伐","Kill 300 《Hobgoblin》",0,36
+"ACHIEVEMENT_INFO_863","《フォレストゴブリン》系エネミーを50体討伐","Kill 50 《Forest Goblin》",0,37
+"ACHIEVEMENT_INFO_864","《フォレストゴブリン》系エネミーを200体討伐","Kill 200 《Forest Goblin》",0,38
+"ACHIEVEMENT_INFO_865","《フォレストゴブリン》系エネミーを500体討伐","Kill 500 《Forest Goblin》",0,39
+"ACHIEVEMENT_INFO_872","《レッドキャップ》系エネミーを30体討伐","Kill 30 《Redcap》",0,40
+"ACHIEVEMENT_INFO_873","《レッドキャップ》系エネミーを100体討伐","Kill 100 《Redcap》",0,41
+"ACHIEVEMENT_INFO_874","《レッドキャップ》系エネミーを300体討伐","Kill 300 《Redcap》",0,42
+"ACHIEVEMENT_INFO_881","《錬魔ゴブリン》系エネミーを50体討伐","Kill 50 《錬魔ゴブリン》",0,43
+"ACHIEVEMENT_INFO_882","《錬魔ゴブリン》系エネミーを200体討伐","Kill 200 《錬魔ゴブリン》",0,44
+"ACHIEVEMENT_INFO_883","《錬魔ゴブリン》系エネミーを500体討伐","Kill 500 《錬魔ゴブリン》",0,45
+"ACHIEVEMENT_INFO_623","《ウルフ》系エネミーを50体討伐","Kill 50 《Wolf》",0,46
+"ACHIEVEMENT_INFO_624","《ウルフ》系エネミーを200体討伐","Kill 200 《Wolf》",0,47
+"ACHIEVEMENT_INFO_625","《ウルフ》系エネミーを500体討伐","Kill 500 《Wolf》",0,48
+"ACHIEVEMENT_INFO_629","グリムワーグを50体討伐","Kill 50 Grim Wargs ",0,49
+"ACHIEVEMENT_INFO_630","グリムワーグを100体討伐","Kill 100 Grim Wargs ",0,50
+"ACHIEVEMENT_INFO_631","グリムワーグを300体討伐","Kill 300 Grim Wargs ",0,51
+"ACHIEVEMENT_INFO_635","《錬魔オオカミ》系エネミーを50体討伐","Kill 50 《錬魔オオカミ》",0,52
+"ACHIEVEMENT_INFO_636","《錬魔オオカミ》系エネミーを100体討伐","Kill 100 《錬魔オオカミ》",0,53
+"ACHIEVEMENT_INFO_637","《錬魔オオカミ》系エネミーを300体討伐","Kill 300 《錬魔オオカミ》",0,54
+"ACHIEVEMENT_INFO_641","《スケルトン》系エネミーを50体討伐","Kill 50 《Skeleton》",0,55
+"ACHIEVEMENT_INFO_642","《スケルトン》系エネミーを300体討伐","Kill 300 《Skeleton》",0,56
+"ACHIEVEMENT_INFO_643","《スケルトン》系エネミーを1000体討伐","Kill 1000 《Skeleton》",0,57
 "ACHIEVEMENT_INFO_668","スケルトンアルケミーを30体討伐","Kill 30 Alchemic Skeletons",0,58
 "ACHIEVEMENT_INFO_669","スケルトンアルケミーを100体討伐","Kill 100 Alchemic Skeletons",0,59
 "ACHIEVEMENT_INFO_670","スケルトンアルケミーを300体討伐","Kill 300 Alchemic Skeletons",0,60
-"ACHIEVEMENT_INFO_671","《リザードマン》系エネミーを30体討伐","Kill 30 《Saurian》 enemies",0,61
-"ACHIEVEMENT_INFO_672","《リザードマン》系エネミーを100体討伐","Kill 100 《Saurian》 enemies",0,62
-"ACHIEVEMENT_INFO_673","《リザードマン》系エネミーを300体討伐","Kill 300 《Saurian》 enemies",0,63
-"ACHIEVEMENT_INFO_677","《サルファーリザード》系エネミーを30体討伐","Kill 30 《Sulfur Saurian》 enemies",0,64
-"ACHIEVEMENT_INFO_678","《サルファーリザード》系エネミーを100体討伐","Kill 100 《Sulfur Saurian》 enemies",0,65
-"ACHIEVEMENT_INFO_679","《サルファーリザード》系エネミーを300体討伐","Kill 300 《Sulfur Saurian》 enemies",0,66
-"ACHIEVEMENT_INFO_683","《ロックリザード》系エネミーを30体討伐","Kill 30 《Rock Saurian》 enemies",0,67
-"ACHIEVEMENT_INFO_684","《ロックリザード》系エネミーを100体討伐","Kill 100 《Rock Saurian》 enemies",0,68
-"ACHIEVEMENT_INFO_685","《ロックリザード》系エネミーを300体討伐","Kill 300 《Rock Saurian》 enemies",0,69
-"ACHIEVEMENT_INFO_689","ブルーニュートを30体討伐","Kill 30 Blue Newts",0,70
-"ACHIEVEMENT_INFO_690","ブルーニュートを100体討伐","Kill 100 Blue Newts",0,71
-"ACHIEVEMENT_INFO_691","ブルーニュートを300体討伐","Kill 300 Blue Newts",0,72
-"ACHIEVEMENT_INFO_692","《アンデッド》系エネミーを50体討伐","Kill 50 《Undead》 enemies",0,73
-"ACHIEVEMENT_INFO_693","《アンデッド》系エネミーを200体討伐","Kill 200 《Undead》 enemies",0,74
-"ACHIEVEMENT_INFO_694","《アンデッド》系エネミーを500体討伐","Kill 500 《Undead》 enemies",0,75
-"ACHIEVEMENT_INFO_707","《液状人形》系エネミーを50体討伐","Kill 50 《Liquid Puppet》 enemies",0,76
-"ACHIEVEMENT_INFO_708","《液状人形》系エネミーを200体討伐","Kill 200 《Liquid Puppet》 enemies",0,77
-"ACHIEVEMENT_INFO_709","《液状人形》系エネミーを500体討伐","Kill 500 《Liquid Puppet》 enemies",0,78
-"ACHIEVEMENT_INFO_713","《コープス》系エネミーを30体討伐","Kill 30 《Corpse》 enemies",0,79
-"ACHIEVEMENT_INFO_714","《コープス》系エネミーを100体討伐","Kill 100 《Corpse》 enemies",0,80
-"ACHIEVEMENT_INFO_715","《コープス》系エネミーを300体討伐","Kill 300 《Corpse》 enemies",0,81
-"ACHIEVEMENT_INFO_719","《ハーピー》系エネミーを50体討伐","Kill 50 《Harpy》 enemies",0,82
-"ACHIEVEMENT_INFO_720","《ハーピー》系エネミーを200体討伐","Kill 200 《Harpy》 enemies",0,83
-"ACHIEVEMENT_INFO_721","《ハーピー》系エネミーを500体討伐","Kill 500 《Harpy》 enemies",0,84
-"ACHIEVEMENT_INFO_731","《地蟲》系エネミーを50体討伐","Kill 50 《地蟲》 enemies",0,85
-"ACHIEVEMENT_INFO_732","《地蟲》系エネミーを100体討伐","Kill 100 《地蟲》 enemies",0,86
-"ACHIEVEMENT_INFO_733","《地蟲》系エネミーを300体討伐","Kill 300 《地蟲》 enemies",0,87
+"ACHIEVEMENT_INFO_671","《リザードマン》系エネミーを30体討伐","Kill 30 《Saurian》",0,61
+"ACHIEVEMENT_INFO_672","《リザードマン》系エネミーを100体討伐","Kill 100 《Saurian》",0,62
+"ACHIEVEMENT_INFO_673","《リザードマン》系エネミーを300体討伐","Kill 300 《Saurian》",0,63
+"ACHIEVEMENT_INFO_677","《サルファーリザード》系エネミーを30体討伐","Kill 30 《Sulfur Saurian》",0,64
+"ACHIEVEMENT_INFO_678","《サルファーリザード》系エネミーを100体討伐","Kill 100 《Sulfur Saurian》",0,65
+"ACHIEVEMENT_INFO_679","《サルファーリザード》系エネミーを300体討伐","Kill 300 《Sulfur Saurian》",0,66
+"ACHIEVEMENT_INFO_683","《ロックリザード》系エネミーを30体討伐","Kill 30 《Rock Saurian》",0,67
+"ACHIEVEMENT_INFO_684","《ロックリザード》系エネミーを100体討伐","Kill 100 《Rock Saurian》",0,68
+"ACHIEVEMENT_INFO_685","《ロックリザード》系エネミーを300体討伐","Kill 300 《Rock Saurian》",0,69
+"ACHIEVEMENT_INFO_689","ブルーニュートを30体討伐","Kill 30 Blue Newts ",0,70
+"ACHIEVEMENT_INFO_690","ブルーニュートを100体討伐","Kill 100 Blue Newts ",0,71
+"ACHIEVEMENT_INFO_691","ブルーニュートを300体討伐","Kill 300 Blue Newts ",0,72
+"ACHIEVEMENT_INFO_692","《アンデッド》系エネミーを50体討伐","Kill 50 《Undead》",0,73
+"ACHIEVEMENT_INFO_693","《アンデッド》系エネミーを200体討伐","Kill 200 《Undead》",0,74
+"ACHIEVEMENT_INFO_694","《アンデッド》系エネミーを500体討伐","Kill 500 《Undead》",0,75
+"ACHIEVEMENT_INFO_707","《液状人形》系エネミーを50体討伐","Kill 50 《Liquid Puppet》",0,76
+"ACHIEVEMENT_INFO_708","《液状人形》系エネミーを200体討伐","Kill 200 《Liquid Puppet》",0,77
+"ACHIEVEMENT_INFO_709","《液状人形》系エネミーを500体討伐","Kill 500 《Liquid Puppet》",0,78
+"ACHIEVEMENT_INFO_713","《コープス》系エネミーを30体討伐","Kill 30 《Corpse》",0,79
+"ACHIEVEMENT_INFO_714","《コープス》系エネミーを100体討伐","Kill 100 《Corpse》",0,80
+"ACHIEVEMENT_INFO_715","《コープス》系エネミーを300体討伐","Kill 300 《Corpse》",0,81
+"ACHIEVEMENT_INFO_719","《ハーピー》系エネミーを50体討伐","Kill 50 《Harpy》",0,82
+"ACHIEVEMENT_INFO_720","《ハーピー》系エネミーを200体討伐","Kill 200 《Harpy》",0,83
+"ACHIEVEMENT_INFO_721","《ハーピー》系エネミーを500体討伐","Kill 500 《Harpy》",0,84
+"ACHIEVEMENT_INFO_731","《地蟲》系エネミーを50体討伐","Kill 50 《地蟲》",0,85
+"ACHIEVEMENT_INFO_732","《地蟲》系エネミーを100体討伐","Kill 100 《地蟲》",0,86
+"ACHIEVEMENT_INFO_733","《地蟲》系エネミーを300体討伐","Kill 300 《地蟲》",0,87
 "ACHIEVEMENT_INFO_914","キラービーを50体討伐","Kill 50 Killer Bees",0,88
 "ACHIEVEMENT_INFO_915","キラービーを200体討伐","Kill 200 Killer Bees",0,89
 "ACHIEVEMENT_INFO_916","キラービーを500体討伐","Kill 500 Killer Bees",0,90
-"ACHIEVEMENT_INFO_737","《スライム》系エネミーを50体討伐","Kill 50 《Slime》 enemies",0,91
-"ACHIEVEMENT_INFO_738","《スライム》系エネミーを100体討伐","Kill 100 《Slime》 enemies",0,92
-"ACHIEVEMENT_INFO_739","《スライム》系エネミーを300体討伐","Kill 300 《Slime》 enemies",0,93
-"ACHIEVEMENT_INFO_794","《ローグ》系エネミーを30体討伐","Kill 30 《Rogue》 enemies",0,94
-"ACHIEVEMENT_INFO_795","《ローグ》系エネミーを100体討伐","Kill 100 《Rogue》 enemies",0,95
-"ACHIEVEMENT_INFO_796","《ローグ》系エネミーを300体討伐","Kill 300 《Rogue》 enemies",0,96
-"ACHIEVEMENT_INFO_818","《ミストマン》系エネミーを30体討伐","Kill 30 《ミストマン》 enemies",0,97
-"ACHIEVEMENT_INFO_819","《ミストマン》系エネミーを100体討伐","Kill 100 《ミストマン》 enemies",0,98
-"ACHIEVEMENT_INFO_820","《ミストマン》系エネミーを300体討伐","Kill 300 《ミストマン》 enemies",0,99
-"ACHIEVEMENT_INFO_836","《呪縛ポーン》系エネミーを30体討伐","Kill 30 《Cursed Bone》 enemies",0,100
-"ACHIEVEMENT_INFO_837","《呪縛ポーン》系エネミーを100体討伐","Kill 100 《Cursed Bone》 enemies",0,101
-"ACHIEVEMENT_INFO_838","《呪縛ポーン》系エネミーを300体討伐","Kill 300 《Cursed Bone》 enemies",0,102
-"ACHIEVEMENT_INFO_917","《サイクロプス》系エネミーを10体討伐","Kill 10 《Cyclops》 enemies",0,103
-"ACHIEVEMENT_INFO_918","《サイクロプス》系エネミーを50体討伐","Kill 50 《Cyclops》 enemies",0,104
-"ACHIEVEMENT_INFO_919","《サイクロプス》系エネミーを100体討伐","Kill 100 《Cyclops》 enemies",0,105
-"ACHIEVEMENT_INFO_929","コロッサスを10体討伐","Kill 10 Colossuses",0,106
-"ACHIEVEMENT_INFO_930","コロッサスを30体討伐","Kill 30 Colossuses",0,107
-"ACHIEVEMENT_INFO_931","コロッサスを100体討伐","Kill 100 Colossuses",0,108
+"ACHIEVEMENT_INFO_737","《スライム》系エネミーを50体討伐","Kill 50 《Slime》",0,91
+"ACHIEVEMENT_INFO_738","《スライム》系エネミーを100体討伐","Kill 100 《Slime》",0,92
+"ACHIEVEMENT_INFO_739","《スライム》系エネミーを300体討伐","Kill 300 《Slime》",0,93
+"ACHIEVEMENT_INFO_794","《ローグ》系エネミーを30体討伐","Kill 30 《Rogue》",0,94
+"ACHIEVEMENT_INFO_795","《ローグ》系エネミーを100体討伐","Kill 100 《Rogue》",0,95
+"ACHIEVEMENT_INFO_796","《ローグ》系エネミーを300体討伐","Kill 300 《Rogue》",0,96
+"ACHIEVEMENT_INFO_818","《ミストマン》系エネミーを30体討伐","Kill 30 《ミストマン》",0,97
+"ACHIEVEMENT_INFO_819","《ミストマン》系エネミーを100体討伐","Kill 100 《ミストマン》",0,98
+"ACHIEVEMENT_INFO_820","《ミストマン》系エネミーを300体討伐","Kill 300 《ミストマン》",0,99
+"ACHIEVEMENT_INFO_836","《呪縛ポーン》系エネミーを30体討伐","Kill 30 《Cursed Bone》",0,100
+"ACHIEVEMENT_INFO_837","《呪縛ポーン》系エネミーを100体討伐","Kill 100 《Cursed Bone》",0,101
+"ACHIEVEMENT_INFO_838","《呪縛ポーン》系エネミーを300体討伐","Kill 300 《Cursed Bone》",0,102
+"ACHIEVEMENT_INFO_917","《サイクロプス》系エネミーを10体討伐","Kill 10 《Cyclops》",0,103
+"ACHIEVEMENT_INFO_918","《サイクロプス》系エネミーを50体討伐","Kill 50 《Cyclops》",0,104
+"ACHIEVEMENT_INFO_919","《サイクロプス》系エネミーを100体討伐","Kill 100 《Cyclops》",0,105
+"ACHIEVEMENT_INFO_929","コロッサスを10体討伐","Kill 10 Colossuses ",0,106
+"ACHIEVEMENT_INFO_930","コロッサスを30体討伐","Kill 30 Colossuses ",0,107
+"ACHIEVEMENT_INFO_931","コロッサスを100体討伐","Kill 100 Colossuses ",0,108
 "ACHIEVEMENT_INFO_935","エントを10体討伐","Kill 10 Ents",0,109
 "ACHIEVEMENT_INFO_936","エントを30体討伐","Kill 30 Ents",0,110
 "ACHIEVEMENT_INFO_937","エントを100体討伐","Kill 100 Ents",0,111
 "ACHIEVEMENT_INFO_1297","グランエントを10体討伐","Kill 10 Grand Ents",0,112
 "ACHIEVEMENT_INFO_1298","グランエントを30体討伐","Kill 30 Grand Ents",0,113
 "ACHIEVEMENT_INFO_1299","グランエントを100体討伐","Kill 100 Grand Ents",0,114
-"ACHIEVEMENT_INFO_938","《トロール》系エネミーを30体討伐","Kill 30 《Troll》 enemies",0,115
-"ACHIEVEMENT_INFO_939","《トロール》系エネミーを50体討伐","Kill 50 《Troll》 enemies",0,116
-"ACHIEVEMENT_INFO_940","《トロール》系エネミーを100体討伐","Kill 100 《Troll》 enemies",0,117
+"ACHIEVEMENT_INFO_938","《トロール》系エネミーを30体討伐","Kill 30 《Troll》 ",0,115
+"ACHIEVEMENT_INFO_939","《トロール》系エネミーを50体討伐","Kill 50 《Troll》 ",0,116
+"ACHIEVEMENT_INFO_940","《トロール》系エネミーを100体討伐","Kill 100 《Troll》 ",0,117
 "ACHIEVEMENT_INFO_944","ゴーレムを10体討伐","Kill 10 Golems",0,118
 "ACHIEVEMENT_INFO_945","ゴーレムを30体討伐","Kill 30 Golems",0,119
 "ACHIEVEMENT_INFO_946","ゴーレムを100体討伐","Kill 100 Golems",0,120
@@ -137,9 +137,9 @@
 "ACHIEVEMENT_INFO_998","オーガを20体討伐","Kill 20 Ogres",0,136
 "ACHIEVEMENT_INFO_999","オーガを50体討伐","Kill 50 Ogres",0,137
 "ACHIEVEMENT_INFO_1000","オーガを100体討伐","Kill 100 Ogres",0,138
-"ACHIEVEMENT_INFO_1001","《エイプ》系エネミーを30体討伐","Kill 30 《Ape》 enemies",0,139
-"ACHIEVEMENT_INFO_1002","《エイプ》系エネミーを100体討伐","Kill 100 《Ape》 enemies",0,140
-"ACHIEVEMENT_INFO_1003","《エイプ》系エネミーを200体討伐","Kill 200 《Ape》 enemies",0,141
+"ACHIEVEMENT_INFO_1001","《エイプ》系エネミーを30体討伐","Kill 30 《Ape》 ",0,139
+"ACHIEVEMENT_INFO_1002","《エイプ》系エネミーを100体討伐","Kill 100 《Ape》 ",0,140
+"ACHIEVEMENT_INFO_1003","《エイプ》系エネミーを200体討伐","Kill 200 《Ape》 ",0,141
 "ACHIEVEMENT_INFO_1004","グールを20体討伐","Kill 20 Ghouls",0,142
 "ACHIEVEMENT_INFO_1005","グールを50体討伐","Kill 50 Ghouls",0,143
 "ACHIEVEMENT_INFO_1006","グールを100体討伐","Kill 100 Ghouls",0,144
@@ -161,12 +161,12 @@
 "ACHIEVEMENT_INFO_1034","ベヘモットを10体討伐","Kill 10 Behemoths",0,160
 "ACHIEVEMENT_INFO_1035","ベヘモットを50体討伐","Kill 50 Behemoths",0,161
 "ACHIEVEMENT_INFO_1036","ベヘモットを100体討伐","Kill 100 Behemoths",0,162
-"ACHIEVEMENT_INFO_1043","《オーク》系エネミーを30体討伐","Kill 30 《Orc》 enemies",0,163
-"ACHIEVEMENT_INFO_1044","《オーク》系エネミーを100体討伐","Kill 100 《Orc》 enemies",0,164
-"ACHIEVEMENT_INFO_1045","《オーク》系エネミーを300体討伐","Kill 300 《Orc》 enemies",0,165
-"ACHIEVEMENT_INFO_1061","《リーダーオーク》系エネミーを20体討伐","Kill 20 《Orc Leader》 enemies",0,166
-"ACHIEVEMENT_INFO_1062","《リーダーオーク》系エネミーを50体討伐","Kill 50 《Orc Leader》 enemies",0,167
-"ACHIEVEMENT_INFO_1063","《リーダーオーク》系エネミーを100体討伐","Kill 100 《Orc Leader》 enemies",0,168
+"ACHIEVEMENT_INFO_1043","《オーク》系エネミーを30体討伐","Kill 30 《Orc》 ",0,163
+"ACHIEVEMENT_INFO_1044","《オーク》系エネミーを100体討伐","Kill 100 《Orc》 ",0,164
+"ACHIEVEMENT_INFO_1045","《オーク》系エネミーを300体討伐","Kill 300 《Orc》 ",0,165
+"ACHIEVEMENT_INFO_1061","《リーダーオーク》系エネミーを20体討伐","Kill 20 《Orc Leader》 ",0,166
+"ACHIEVEMENT_INFO_1062","《リーダーオーク》系エネミーを50体討伐","Kill 50 《Orc Leader》 ",0,167
+"ACHIEVEMENT_INFO_1063","《リーダーオーク》系エネミーを100体討伐","Kill 100 《Orc Leader》 ",0,168
 "ACHIEVEMENT_INFO_1085","エルダードラゴンを1体討伐","Kill 1 Elder Dragon",0,169
 "ACHIEVEMENT_INFO_1086","エルダードラゴンを5体討伐","Kill 5 Elder Dragons",0,170
 "ACHIEVEMENT_INFO_1087","エルダードラゴンを10体討伐","Kill 10 Elder Dragons",0,171
@@ -281,18 +281,11 @@ level 40 as a Seeker",0,216
 ジョブレベルが10に到達","Have a main pawn reach
 level 10 as an Element Archer",0,217
 "ACHIEVEMENT_INFO_1165","メインポーン（エレメントアーチャー）の
-ジョブレベルが40に到達","Have a main pawn reach
-level 40 as an Element Archer",0,218
-"ACHIEVEMENT_INFO_1173","メインポーンのクラフトレベルが
-5に到達","Have a main pawn reach
-level 5 in crafting",0,219
-"ACHIEVEMENT_INFO_1174","メインポーンのクラフトレベルが
-15に到達","Have a main pawn reach
-level 15 in crafting",0,220
-"ACHIEVEMENT_INFO_1176","メインポーンがクラフトレベル8の
-クラフト昇格試験に合格","Enhance the grade of a crafting level 8 item",0,221
-"ACHIEVEMENT_INFO_1177","メインポーンがクラフトレベル16の
-クラフト昇格試験に合格","Enhance the grade of a crafting level 16 item",0,222
+ジョブレベルが40に到達","Have a main pawn reach level 40 as an Element Archer",0,218
+"ACHIEVEMENT_INFO_1173","メインポーンのクラフトレベルが5に到達","Have a main pawn reach level 5 in crafting",0,219
+"ACHIEVEMENT_INFO_1174","メインポーンのクラフトレベルが15に到達","Have a main pawn reach level 15 in crafting",0,220
+"ACHIEVEMENT_INFO_1176","メインポーンがクラフトレベル8のクラフト昇格試験に合格","Enhance the grade of a crafting level 8 item",0,221
+"ACHIEVEMENT_INFO_1177","メインポーンがクラフトレベル16のクラフト昇格試験に合格","Enhance the grade of a crafting level 16 item",0,222
 "ACHIEVEMENT_INFO_1228","宝箱を10個開く","Open 10 chests",0,223
 "ACHIEVEMENT_INFO_1229","宝箱を30個開く","Open 30 chests",0,224
 "ACHIEVEMENT_INFO_1230","宝箱を100個開く","Open 100 chests",0,225

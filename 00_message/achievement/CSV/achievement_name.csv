@@ -3,7 +3,7 @@
 "ACHIEVEMENT_NAME_519","異界の戦士","The Otherworldly Warrior",0,2
 "ACHIEVEMENT_NAME_520","湯煙の館","The House of Steam",0,3
 "ACHIEVEMENT_NAME_521","神の目覚め","The Awakening of God",0,4
-"ACHIEVEMENT_NAME_522","闇を纏う娘",,0,5
+"ACHIEVEMENT_NAME_522","闇を纏う娘","Daughter of Darkness",0,5
 "ACHIEVEMENT_NAME_523","命の行方",,0,6
 "ACHIEVEMENT_NAME_528","新兵の心","The Heart of a Recruit",0,7
 "ACHIEVEMENT_NAME_529","討伐請け負います",,0,8
@@ -29,102 +29,102 @@
 "ACHIEVEMENT_NAME_585","万夫不当",,0,28
 "ACHIEVEMENT_NAME_1295","弐万征殺",,0,29
 "ACHIEVEMENT_NAME_1296","参萬破王",,0,30
-"ACHIEVEMENT_NAME_590","小鬼退治Ⅰ","Goblin I",0,31
-"ACHIEVEMENT_NAME_591","小鬼退治Ⅱ","Goblin II",0,32
-"ACHIEVEMENT_NAME_592","小鬼退治Ⅲ","Goblin III",0,33
-"ACHIEVEMENT_NAME_608","亜人ハンターⅠ","Hobgoblin I",0,34
-"ACHIEVEMENT_NAME_609","亜人ハンターⅡ","Hobgoblin II",0,35
-"ACHIEVEMENT_NAME_610","亜人ハンターⅢ","Hobgoblin III",0,36
-"ACHIEVEMENT_NAME_863","森の妖鬼Ⅰ","Forest Goblin I",0,37
-"ACHIEVEMENT_NAME_864","森の妖鬼Ⅱ","Forest Goblin II",0,38
-"ACHIEVEMENT_NAME_865","森の妖鬼Ⅲ","Forest Goblin III",0,39
-"ACHIEVEMENT_NAME_872","血濡れの赤帽Ⅰ","Redcap I",0,40
-"ACHIEVEMENT_NAME_873","血濡れの赤帽Ⅱ","Redcap II",0,41
-"ACHIEVEMENT_NAME_874","血濡れの赤帽Ⅲ","Redcap III",0,42
-"ACHIEVEMENT_NAME_881","異形の小鬼Ⅰ",,0,43
-"ACHIEVEMENT_NAME_882","異形の小鬼Ⅱ",,0,44
-"ACHIEVEMENT_NAME_883","異形の小鬼Ⅲ",,0,45
+"ACHIEVEMENT_NAME_590","小鬼退治Ⅰ","《Goblin》I",0,31
+"ACHIEVEMENT_NAME_591","小鬼退治Ⅱ","《Goblin》II",0,32
+"ACHIEVEMENT_NAME_592","小鬼退治Ⅲ","《Goblin》III",0,33
+"ACHIEVEMENT_NAME_608","亜人ハンターⅠ","《Hobgoblin》I",0,34
+"ACHIEVEMENT_NAME_609","亜人ハンターⅡ","《Hobgoblin》II",0,35
+"ACHIEVEMENT_NAME_610","亜人ハンターⅢ","《Hobgoblin》III",0,36
+"ACHIEVEMENT_NAME_863","森の妖鬼Ⅰ","《Forest Goblin》I",0,37
+"ACHIEVEMENT_NAME_864","森の妖鬼Ⅱ","《Forest Goblin》II",0,38
+"ACHIEVEMENT_NAME_865","森の妖鬼Ⅲ","《Forest Goblin》III",0,39
+"ACHIEVEMENT_NAME_872","血濡れの赤帽Ⅰ","《Redcap》I",0,40
+"ACHIEVEMENT_NAME_873","血濡れの赤帽Ⅱ","《Redcap》II",0,41
+"ACHIEVEMENT_NAME_874","血濡れの赤帽Ⅲ","《Redcap》III",0,42
+"ACHIEVEMENT_NAME_881","異形の小鬼Ⅰ","《錬魔ゴブリン》I",0,43
+"ACHIEVEMENT_NAME_882","異形の小鬼Ⅱ","《錬魔ゴブリン》II",0,44
+"ACHIEVEMENT_NAME_883","異形の小鬼Ⅲ","《錬魔ゴブリン》III",0,45
 "ACHIEVEMENT_NAME_623","ワイルドウルフⅠ","Wild Wolf I",0,46
 "ACHIEVEMENT_NAME_624","ワイルドウルフⅡ","Wild Wolf II",0,47
 "ACHIEVEMENT_NAME_625","ワイルドウルフⅢ","Wild Wolf III",0,48
 "ACHIEVEMENT_NAME_629","貪欲な魔獣Ⅰ","Grim Wargs I",0,49
 "ACHIEVEMENT_NAME_630","貪欲な魔獣Ⅱ","Grim Wargs II",0,50
 "ACHIEVEMENT_NAME_631","貪欲な魔獣Ⅲ","Grim Wargs III",0,51
-"ACHIEVEMENT_NAME_635","金の獣牙Ⅰ",,0,52
-"ACHIEVEMENT_NAME_636","金の獣牙Ⅱ",,0,53
-"ACHIEVEMENT_NAME_637","金の獣牙Ⅲ",,0,54
-"ACHIEVEMENT_NAME_641","さまようドクロⅠ",,0,55
-"ACHIEVEMENT_NAME_642","さまようドクロⅡ",,0,56
-"ACHIEVEMENT_NAME_643","さまようドクロⅢ",,0,57
-"ACHIEVEMENT_NAME_668","魔性のドクロⅠ",,0,58
-"ACHIEVEMENT_NAME_669","魔性のドクロⅡ",,0,59
-"ACHIEVEMENT_NAME_670","魔性のドクロⅢ",,0,60
-"ACHIEVEMENT_NAME_671","ウロコの戦士Ⅰ",,0,61
-"ACHIEVEMENT_NAME_672","ウロコの戦士Ⅱ",,0,62
-"ACHIEVEMENT_NAME_673","ウロコの戦士Ⅲ",,0,63
-"ACHIEVEMENT_NAME_677","忍び寄る縞模様Ⅰ",,0,64
-"ACHIEVEMENT_NAME_678","忍び寄る縞模様Ⅱ",,0,65
-"ACHIEVEMENT_NAME_679","忍び寄る縞模様Ⅲ",,0,66
-"ACHIEVEMENT_NAME_683","岩壁を這う者Ⅰ",,0,67
-"ACHIEVEMENT_NAME_684","岩壁を這う者Ⅱ",,0,68
-"ACHIEVEMENT_NAME_685","岩壁を這う者Ⅲ",,0,69
-"ACHIEVEMENT_NAME_689","トカゲ発電Ⅰ",,0,70
-"ACHIEVEMENT_NAME_690","トカゲ発電Ⅱ",,0,71
-"ACHIEVEMENT_NAME_691","トカゲ発電Ⅲ",,0,72
-"ACHIEVEMENT_NAME_692","不死殺しⅠ",,0,73
-"ACHIEVEMENT_NAME_693","不死殺しⅡ",,0,74
-"ACHIEVEMENT_NAME_694","不死殺しⅢ",,0,75
+"ACHIEVEMENT_NAME_635","金の獣牙Ⅰ","《錬魔オオカミ》I",0,52
+"ACHIEVEMENT_NAME_636","金の獣牙Ⅱ","《錬魔オオカミ》II",0,53
+"ACHIEVEMENT_NAME_637","金の獣牙Ⅲ","《錬魔オオカミ》III",0,54
+"ACHIEVEMENT_NAME_641","さまようドクロⅠ","《Skeleton》I",0,55
+"ACHIEVEMENT_NAME_642","さまようドクロⅡ","《Skeleton》II",0,56
+"ACHIEVEMENT_NAME_643","さまようドクロⅢ","《Skeleton》III",0,57
+"ACHIEVEMENT_NAME_668","魔性のドクロⅠ","Alchemic Skeleton I",0,58
+"ACHIEVEMENT_NAME_669","魔性のドクロⅡ","Alchemic Skeleton II",0,59
+"ACHIEVEMENT_NAME_670","魔性のドクロⅢ","Alchemic Skeleton III",0,60
+"ACHIEVEMENT_NAME_671","ウロコの戦士Ⅰ","《Saurian》I",0,61
+"ACHIEVEMENT_NAME_672","ウロコの戦士Ⅱ","《Saurian》II",0,62
+"ACHIEVEMENT_NAME_673","ウロコの戦士Ⅲ","《Saurian》III",0,63
+"ACHIEVEMENT_NAME_677","忍び寄る縞模様Ⅰ","《Sulfur Saurian》I",0,64
+"ACHIEVEMENT_NAME_678","忍び寄る縞模様Ⅱ","《Sulfur Saurian》II",0,65
+"ACHIEVEMENT_NAME_679","忍び寄る縞模様Ⅲ","《Sulfur Saurian》III",0,66
+"ACHIEVEMENT_NAME_683","岩壁を這う者Ⅰ","《Rock Saurian》I",0,67
+"ACHIEVEMENT_NAME_684","岩壁を這う者Ⅱ","《Rock Saurian》II",0,68
+"ACHIEVEMENT_NAME_685","岩壁を這う者Ⅲ","《Rock Saurian》III",0,69
+"ACHIEVEMENT_NAME_689","トカゲ発電Ⅰ","Blue Newts I",0,70
+"ACHIEVEMENT_NAME_690","トカゲ発電Ⅱ","Blue Newts II",0,71
+"ACHIEVEMENT_NAME_691","トカゲ発電Ⅲ","Blue Newts III",0,72
+"ACHIEVEMENT_NAME_692","不死殺しⅠ","《Undead》I",0,73
+"ACHIEVEMENT_NAME_693","不死殺しⅡ","《Undead》II",0,74
+"ACHIEVEMENT_NAME_694","不死殺しⅢ","《Undead》III",0,75
 "ACHIEVEMENT_NAME_707","パペットクラッシャーⅠ","Puppet Crusher I",0,76
 "ACHIEVEMENT_NAME_708","パペットクラッシャーⅡ","Puppet Crusher II",0,77
 "ACHIEVEMENT_NAME_709","パペットクラッシャーⅢ","Puppet Crusher III",0,78
-"ACHIEVEMENT_NAME_713","葬儀屋Ⅰ",,0,79
-"ACHIEVEMENT_NAME_714","葬儀屋Ⅱ",,0,80
-"ACHIEVEMENT_NAME_715","葬儀屋Ⅲ",,0,81
-"ACHIEVEMENT_NAME_719","歌う鳥妖Ⅰ",,0,82
-"ACHIEVEMENT_NAME_720","歌う鳥妖Ⅱ",,0,83
-"ACHIEVEMENT_NAME_721","歌う鳥妖Ⅲ",,0,84
-"ACHIEVEMENT_NAME_731","虫取り少年",,0,85
-"ACHIEVEMENT_NAME_732","虫取りプロ",,0,86
-"ACHIEVEMENT_NAME_733","虫取りエキスパート",,0,87
-"ACHIEVEMENT_NAME_914","害虫駆除業者Ⅰ",,0,88
-"ACHIEVEMENT_NAME_915","害虫駆除業者Ⅱ",,0,89
-"ACHIEVEMENT_NAME_916","害虫駆除業者Ⅲ",,0,90
-"ACHIEVEMENT_NAME_737","ローションプレイヤーⅠ","Lotion Player I",0,91
-"ACHIEVEMENT_NAME_738","ローションプレイヤーⅡ","Lotion Player II",0,92
-"ACHIEVEMENT_NAME_739","ローションプレイヤーⅢ","Lotion Player III",0,93
-"ACHIEVEMENT_NAME_794","盗賊ハンターⅠ","Bandit Hunter I",0,94
-"ACHIEVEMENT_NAME_795","盗賊ハンターⅡ","Bandit Hunter II",0,95
-"ACHIEVEMENT_NAME_796","盗賊ハンターⅢ","Bandit Hunter III",0,96
-"ACHIEVEMENT_NAME_818","ゴーストバスターⅠ",,0,97
-"ACHIEVEMENT_NAME_819","ゴーストバスターⅡ",,0,98
-"ACHIEVEMENT_NAME_820","ゴーストバスターⅢ",,0,99
-"ACHIEVEMENT_NAME_836","迷えるポーンに安らぎをⅠ",,0,100
-"ACHIEVEMENT_NAME_837","迷えるポーンに安らぎをⅡ",,0,101
-"ACHIEVEMENT_NAME_838","迷えるポーンに安らぎをⅢ",,0,102
+"ACHIEVEMENT_NAME_713","葬儀屋Ⅰ","《Corpse》I",0,79
+"ACHIEVEMENT_NAME_714","葬儀屋Ⅱ","《Corpse》II",0,80
+"ACHIEVEMENT_NAME_715","葬儀屋Ⅲ","《Corpse》III",0,81
+"ACHIEVEMENT_NAME_719","歌う鳥妖Ⅰ","《Harpy》I",0,82
+"ACHIEVEMENT_NAME_720","歌う鳥妖Ⅱ","《Harpy》II",0,83
+"ACHIEVEMENT_NAME_721","歌う鳥妖Ⅲ","《Harpy》III",0,84
+"ACHIEVEMENT_NAME_731","虫取り少年","《地蟲》I",0,85
+"ACHIEVEMENT_NAME_732","虫取りプロ","《地蟲》II",0,86
+"ACHIEVEMENT_NAME_733","虫取りエキスパート","《地蟲》III",0,87
+"ACHIEVEMENT_NAME_914","害虫駆除業者Ⅰ","Killer Bees I",0,88
+"ACHIEVEMENT_NAME_915","害虫駆除業者Ⅱ","Killer Bees II",0,89
+"ACHIEVEMENT_NAME_916","害虫駆除業者Ⅲ","Killer Bees III",0,90
+"ACHIEVEMENT_NAME_737","ローションプレイヤーⅠ","《Slime》Player I",0,91
+"ACHIEVEMENT_NAME_738","ローションプレイヤーⅡ","《Slime》Player II",0,92
+"ACHIEVEMENT_NAME_739","ローションプレイヤーⅢ","《Slime》Player III",0,93
+"ACHIEVEMENT_NAME_794","盗賊ハンターⅠ","《Rogue》Hunter I",0,94
+"ACHIEVEMENT_NAME_795","盗賊ハンターⅡ","《Rogue》Hunter II",0,95
+"ACHIEVEMENT_NAME_796","盗賊ハンターⅢ","《Rogue》Hunter III",0,96
+"ACHIEVEMENT_NAME_818","ゴーストバスターⅠ","《ミストマン》I",0,97
+"ACHIEVEMENT_NAME_819","ゴーストバスターⅡ","《ミストマン》II",0,98
+"ACHIEVEMENT_NAME_820","ゴーストバスターⅢ","《ミストマン》III",0,99
+"ACHIEVEMENT_NAME_836","迷えるポーンに安らぎをⅠ","《Cursed Bone》 I",0,100
+"ACHIEVEMENT_NAME_837","迷えるポーンに安らぎをⅡ","《Cursed Bone》II",0,101
+"ACHIEVEMENT_NAME_838","迷えるポーンに安らぎをⅢ","《Cursed Bone》III",0,102
 "ACHIEVEMENT_NAME_917","一つ目バスターⅠ","One Eye Buster I",0,103
 "ACHIEVEMENT_NAME_918","一つ目バスターⅡ","One Eye Buster II",0,104
 "ACHIEVEMENT_NAME_919","一つ目バスターⅢ","One Eye Buster III",0,105
 "ACHIEVEMENT_NAME_929","ジャイアントキラーⅠ","Giant Killer I",0,106
 "ACHIEVEMENT_NAME_930","ジャイアントキラーⅡ","Giant Killer II",0,107
 "ACHIEVEMENT_NAME_931","ジャイアントキラーⅢ","Giant Killer III",0,108
-"ACHIEVEMENT_NAME_935","樹木伐採者Ⅰ",,0,109
-"ACHIEVEMENT_NAME_936","樹木伐採者Ⅱ",,0,110
-"ACHIEVEMENT_NAME_937","樹木伐採者Ⅲ",,0,111
-"ACHIEVEMENT_NAME_1297","森の賢者Ⅰ",,0,112
-"ACHIEVEMENT_NAME_1298","森の賢者Ⅱ",,0,113
-"ACHIEVEMENT_NAME_1299","森の賢者Ⅲ",,0,114
-"ACHIEVEMENT_NAME_938","巨人討伐衆Ⅰ",,0,115
-"ACHIEVEMENT_NAME_939","巨人討伐衆Ⅱ",,0,116
-"ACHIEVEMENT_NAME_940","巨人討伐衆Ⅲ",,0,117
-"ACHIEVEMENT_NAME_944","石切工Ⅰ",,0,118
-"ACHIEVEMENT_NAME_945","石切工Ⅱ",,0,119
-"ACHIEVEMENT_NAME_946","石切工Ⅲ",,0,120
-"ACHIEVEMENT_NAME_956","吠える三つ首Ⅰ",,0,121
-"ACHIEVEMENT_NAME_957","吠える三つ首Ⅱ",,0,122
-"ACHIEVEMENT_NAME_958","吠える三つ首Ⅲ",,0,123
-"ACHIEVEMENT_NAME_959","白き幻獣Ⅰ",,0,124
-"ACHIEVEMENT_NAME_960","白き幻獣Ⅱ",,0,125
-"ACHIEVEMENT_NAME_961","白き幻獣Ⅲ",,0,126
+"ACHIEVEMENT_NAME_935","樹木伐採者Ⅰ","Ents I",0,109
+"ACHIEVEMENT_NAME_936","樹木伐採者Ⅱ","Ents II",0,110
+"ACHIEVEMENT_NAME_937","樹木伐採者Ⅲ","Ents III",0,111
+"ACHIEVEMENT_NAME_1297","森の賢者Ⅰ","Grand Ents I",0,112
+"ACHIEVEMENT_NAME_1298","森の賢者Ⅱ","Grand Ents II",0,113
+"ACHIEVEMENT_NAME_1299","森の賢者Ⅲ","Grand Ents III",0,114
+"ACHIEVEMENT_NAME_938","巨人討伐衆Ⅰ","《Troll》I",0,115
+"ACHIEVEMENT_NAME_939","巨人討伐衆Ⅱ","《Troll》II",0,116
+"ACHIEVEMENT_NAME_940","巨人討伐衆Ⅲ","《Troll》III",0,117
+"ACHIEVEMENT_NAME_944","石切工Ⅰ","Golems I",0,118
+"ACHIEVEMENT_NAME_945","石切工Ⅱ","Golems II",0,119
+"ACHIEVEMENT_NAME_946","石切工Ⅲ","Golems III",0,120
+"ACHIEVEMENT_NAME_956","吠える三つ首Ⅰ","Chimeras I",0,121
+"ACHIEVEMENT_NAME_957","吠える三つ首Ⅱ","Chimeras II",0,122
+"ACHIEVEMENT_NAME_958","吠える三つ首Ⅲ","Chimeras III",0,123
+"ACHIEVEMENT_NAME_959","白き幻獣Ⅰ","White Chimeras I",0,124
+"ACHIEVEMENT_NAME_960","白き幻獣Ⅱ","White Chimeras II",0,125
+"ACHIEVEMENT_NAME_961","白き幻獣Ⅲ","White Chimeras III",0,126
 "ACHIEVEMENT_NAME_965","スカイグライダーⅠ","Sky Glider I",0,127
 "ACHIEVEMENT_NAME_966","スカイグライダーⅡ","Sky Glider II",0,128
 "ACHIEVEMENT_NAME_967","スカイグライダーⅢ","Sky Glider III",0,129
